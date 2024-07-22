@@ -17,7 +17,7 @@
 - id: doi:10.1109/TMI.2023.3338178
   type: paper
   description: This work establishes the full-waveform inversion for near-field shear waves with deep learning 
-  image: https://www.science.org/cms/10.1126/sciadv.add4082/asset/ac99b6d1-858f-4d7e-a3af-2262df04d59b/assets/images/large/sciadv.add4082-f2.jpg
+  image: images/papers/TMI2024.pdf
   tags:
     - USWE
     - PINN
