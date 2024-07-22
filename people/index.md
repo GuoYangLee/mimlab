@@ -9,9 +9,14 @@ nav:
 
 {% include section.html %}
 
-## Current Members
+## Principle Investigator
 
 {% include list.html  data="members"  component="portrait"  filters="role: pi" %}
+
+{% include section.html %}
+
+## Current Members
+
 {% include list.html  data="members"  component="portrait"  filters="role: current-phd" %}
 {% include list.html  data="members"  component="portrait"  filters="role: current-ms" %}
 {% include list.html  data="members"  component="portrait"  filters="role: current-undergrad" %}
