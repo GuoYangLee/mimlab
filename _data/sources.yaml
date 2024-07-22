@@ -6,9 +6,6 @@
     - OCE
     - Ultra-wideband OCV
     - Ultrasonic shear waves
-  buttons:
-    - type: SI
-      link: https://github.com/your-lab/some-repo
 - id: doi:10.1126/sciadv.add4082
   type: paper
   description: This article proposes an acoustoelastic theory that lays the foundation for stress measurement without knowing constitutive parameters 
@@ -16,7 +13,4 @@
   tags:
     - USWE
     - Acoustoelasticity
-    - Stress measurement
-  buttons:
-    - type: SI
-      link: https://github.com/your-lab/some-repo    
+    - Stress measurement 
