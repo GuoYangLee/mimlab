@@ -30,13 +30,13 @@
   plugin: sources.py
   file: sources.yaml
   type: paper
-  description: This article proposes an acoustoelastic theory that lays the foundation
-    for stress measurement without knowing constitutive parameters
+  description: This work establishes the full-waveform inversion for near-field shear
+    waves with deep learning
   image: https://www.science.org/cms/10.1126/sciadv.add4082/asset/ac99b6d1-858f-4d7e-a3af-2262df04d59b/assets/images/large/sciadv.add4082-f2.jpg
   tags:
   - USWE
-  - Acoustoelasticity
-  - Stress measurement
+  - PINN
+  - FWI
 - id: doi:10.1016/j.actbio.2023.12.019
   title: Simultaneous tensile and shear measurement of the human cornea in vivo using
     S0- and A0-wave optical coherence elastography
