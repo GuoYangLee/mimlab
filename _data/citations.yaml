@@ -1,37 +1,660 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.7554/eLife.87753
-  title: GABAergic synaptic scaling is triggered by changes in spiking activity rather
-    than AMPA receptor activation
+- id: doi:10.1109/TBME.2023.3338086
+  title: In Vivo Optical Coherence Elastography Unveils Spatial Variation of Human
+    Corneal Stiffness
   authors:
-  - Carlos Gonzalez-Islas
-  - Zahraa Sabra
-  - Ming-fai Fong
-  - Pernille Yilmam
-  - Nicholas Au Yong
-  - Kathrin Engisch
-  - Peter Wenner
-  publisher: eLife
-  date: '2024-06-28'
-  link: https://doi.org/gt4jqh
-  orcid: 0000-0002-2336-4531
+  - Guo-Yang Li
+  - Xu Feng
+  - Seok-Hyun Yun
+  publisher: IEEE Transactions on Biomedical Engineering
+  date: '2024-05-01'
+  link: https://doi.org/gs9q67
+  orcid: 0000-0002-5939-9293
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.7554/eLife.87753.3
-  title: GABAergic synaptic scaling is triggered by changes in spiking activity rather
-    than AMPA receptor activation
+- id: doi:10.1109/TMI.2023.3338178
+  title: 'SWENet: A Physics-Informed Deep Neural Network (PINN) for Shear Wave Elastography'
   authors:
-  - Carlos Gonzalez-Islas
-  - Zahraa Sabra
-  - Ming-fai Fong
-  - Pernille Yilmam
-  - Nicholas Au Yong
-  - Kathrin Engisch
-  - Peter Wenner
-  publisher: eLife
-  date: '2024-06-28'
-  link: https://doi.org/gt4jqj
-  orcid: 0000-0002-2336-4531
+  - Ziying Yin
+  - Guo-Yang Li
+  - Zhaoyi Zhang
+  - Yang Zheng
+  - Yanping Cao
+  publisher: IEEE Transactions on Medical Imaging
+  date: '2024-04-01'
+  link: https://doi.org/gt4xp4
+  orcid: 0000-0002-5939-9293
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.actbio.2023.12.019
+  title: Simultaneous tensile and shear measurement of the human cornea in vivo using
+    S0- and A0-wave optical coherence elastography
+  authors:
+  - Guo-Yang Li
+  - Xu Feng
+  - Seok-Hyun Yun
+  publisher: Acta Biomaterialia
+  date: '2024-02-01'
+  link: https://doi.org/gtmvcx
+  orcid: 0000-0002-5939-9293
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1126/sciadv.add4082
+  title: Noninvasive measurement of local stress inside soft materials with programmed
+    shear waves
+  authors:
+  - Zhaoyi Zhang
+  - Guo-Yang Li
+  - Yuxuan Jiang
+  - Yang Zheng
+  - Artur L. Gower
+  - Michel Destrade
+  - Yanping Cao
+  publisher: Science Advances
+  date: '2023-03-10'
+  link: https://doi.org/grwvtc
+  orcid: 0000-0002-5939-9293
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.jmps.2022.105085
+  title: Supershear surface waves reveal prestress and anisotropy of soft materials
+  authors:
+  - Guo-Yang Li
+  - Xu Feng
+  - Antoine Ramier
+  - Seok-Hyun Yun
+  publisher: Journal of the Mechanics and Physics of Solids
+  date: '2022-12-01'
+  link: https://doi.org/gq9w74
+  orcid: 0000-0002-5939-9293
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s42005-022-01000-3
+  title: Non-destructive mapping of stress and strain in soft thin films through sound
+    waves
+  authors:
+  - Guo-Yang Li
+  - Artur L. Gower
+  - Michel Destrade
+  - Seok-Hyun Yun
+  publisher: Communications Physics
+  date: '2022-09-17'
+  link: https://doi.org/gtzx3b
+  orcid: 0000-0002-5939-9293
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.actbio.2022.04.030
+  title: In vivo stiffness measurement of epidermis, dermis, and hypodermis using
+    broadband Rayleigh-wave optical coherence elastography
+  authors:
+  - Xu Feng
+  - Guo-Yang Li
+  - Antoine Ramier
+  - Amira M. Eltony
+  - Seok-Hyun Yun
+  publisher: Acta Biomaterialia
+  date: '2022-07-01'
+  link: https://doi.org/gtmvbm
+  orcid: 0000-0002-5939-9293
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/TMI.2022.3141613
+  title: Arterial Stiffness Probed by Dynamic Ultrasound Elastography Characterizes
+    Waveform of Blood Pressure
+  authors:
+  - Guo-Yang Li
+  - Yuxuan Jiang
+  - Yang Zheng
+  - Weiqiang Xu
+  - Zhaoyi Zhang
+  - Yanping Cao
+  publisher: IEEE Transactions on Medical Imaging
+  date: '2022-06-01'
+  link: https://doi.org/gt4xp5
+  orcid: 0000-0002-5939-9293
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.jbiomech.2021.110444
+  title: AFM-based indentation method for measuring the relaxation property of living
+    cells
+  authors:
+  - Jun-Yuan Sheng
+  - Chi Mo
+  - Guo-Yang Li
+  - Hu-Cheng Zhao
+  - Yanping Cao
+  - Xi-Qiao Feng
+  publisher: Journal of Biomechanics
+  date: '2021-06-01'
+  link: https://doi.org/gt4xp6
+  orcid: 0000-0002-5939-9293
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1121/10.0002959
+  title: 'An ultrasonic method to measure stress without calibration: The angled shear
+    wave method'
+  authors:
+  - Guo-Yang Li
+  - Artur L. Gower
+  - Michel Destrade
+  publisher: The Journal of the Acoustical Society of America
+  date: '2020-12-01'
+  link: https://doi.org/gng3hd
+  orcid: 0000-0002-5939-9293
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.jmps.2020.103896
+  title: Backward Mach cone of shear waves induced by a moving force in soft anisotropic
+    materials
+  authors:
+  - Guo-Yang Li
+  - Yanping Cao
+  publisher: Journal of the Mechanics and Physics of Solids
+  date: '2020-05-01'
+  link: https://doi.org/gt4xp7
+  orcid: 0000-0002-5939-9293
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.eml.2020.100636
+  title: "Size effect in shear wave elastography of small solid tumors \u2013 A phantom\
+    \ study"
+  authors:
+  - Yanfeng Zhang
+  - Guo-Yang Li
+  - Jianqiao Zhou
+  - Yang Zheng
+  - Yu-Xuan Jiang
+  - Yan-Lin Liu
+  - Li-Li Zhang
+  - Lin-Xue Qian
+  - Yanping Cao
+  publisher: Extreme Mechanics Letters
+  date: '2020-02-01'
+  link: https://doi.org/gt4xp8
+  orcid: 0000-0002-5939-9293
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.eml.2019.01.009
+  title: 'Elastodiagnosis of diseases: A review'
+  authors:
+  - Yanping Cao
+  - Yang Zheng
+  - Guo-Yang Li
+  - Yuxuan Jiang
+  publisher: Extreme Mechanics Letters
+  date: '2019-02-01'
+  link: https://doi.org/gt4xp9
+  orcid: 0000-0002-5939-9293
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.actbio.2018.12.002
+  title: Guided wave elastography of layered soft tissues
+  authors:
+  - Guo-Yang Li
+  - Yang Zheng
+  - Yu-Xuan Jiang
+  - Zhaoyi Zhang
+  - Yanping Cao
+  publisher: Acta Biomaterialia
+  date: '2019-01-01'
+  link: https://doi.org/gnxsgg
+  orcid: 0000-0002-5939-9293
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.ijnonlinmec.2018.12.005
+  title: 'Indentation creep tests to assess the viscoelastic properties of soft materials:
+    Theory, method and experiment'
+  authors:
+  - Xiao Zhang
+  - Yang Zheng
+  - Guo-Yang Li
+  - Yan-Lin Liu
+  - Yanping Cao
+  publisher: International Journal of Non-Linear Mechanics
+  date: '2019-03-01'
+  link: https://doi.org/gt4xqb
+  orcid: 0000-0002-5939-9293
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1098/rsta.2018.0075
+  title: Mechanical characterization of functionally graded soft materials with ultrasound
+    elastography
+  authors:
+  - Guo-Yang Li
+  - Zhao-Yi Zhang
+  - Jialin Qian
+  - Yang Zheng
+  - Wenli Liu
+  - Huijuan Wu
+  - Yanping Cao
+  publisher: 'Philosophical Transactions of the Royal Society A: Mathematical, Physical
+    and Engineering Sciences'
+  date: '2019-03-18'
+  link: https://doi.org/gt4xqc
+  orcid: 0000-0002-5939-9293
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.jbiomech.2018.05.018
+  title: Effect of ligation on the viscoelastic properties of liver tissues
+  authors:
+  - Dong Liu
+  - Guo-Yang Li
+  - Chen Su
+  - Yang Zheng
+  - Yu-Xuan Jiang
+  - Lin-Xue Qian
+  - Yanping Cao
+  publisher: Journal of Biomechanics
+  date: '2018-07-01'
+  link: https://doi.org/gdzgns
+  orcid: 0000-0002-5939-9293
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.jmbbm.2018.04.017
+  title: In vivo and ex vivo elastic properties of brain tissues measured with ultrasound
+    elastography
+  authors:
+  - Yan-Lin Liu
+  - Dong Liu
+  - Liang Xu
+  - Chen Su
+  - Guo-Yang Li
+  - Lin-Xue Qian
+  - Yanping Cao
+  publisher: Journal of the Mechanical Behavior of Biomedical Materials
+  date: '2018-07-01'
+  link: https://doi.org/ggrsrf
+  orcid: 0000-0002-5939-9293
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.jmps.2017.11.024
+  title: Non-leaky modes and bandgaps of surface acoustic waves in wrinkled stiff-film/compliant-substrate
+    bilayers
+  authors:
+  - Guo-Yang Li
+  - Guoqiang Xu
+  - Yang Zheng
+  - Yanping Cao
+  publisher: Journal of the Mechanics and Physics of Solids
+  date: '2018-03-01'
+  link: https://doi.org/gc7h82
+  orcid: 0000-0002-5939-9293
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.ultrasmedbio.2016.10.006
+  title: An Inverse Method to Determine Arterial Stiffness with Guided Axial Waves
+  authors:
+  - Guo-Yang Li
+  - Qiong He
+  - Lin Jia
+  - Ping He
+  - Jianwen Luo
+  - Yanping Cao
+  publisher: Ultrasound in Medicine &amp; Biology
+  date: '2017-02-01'
+  link: https://doi.org/f9zknv
+  orcid: 0000-0002-5939-9293
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.jbiomech.2016.12.006
+  title: An ultrasound elastography method to determine the local stiffness of arteries
+    with guided circumferential waves
+  authors:
+  - Guo-Yang Li
+  - Qiong He
+  - Guoqiang Xu
+  - Lin Jia
+  - Jianwen Luo
+  - Yanping Cao
+  publisher: Journal of Biomechanics
+  date: '2017-01-01'
+  link: https://doi.org/f9sr56
+  orcid: 0000-0002-5939-9293
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1121/1.5002685
+  title: 'Assessing the mechanical properties of anisotropic soft tissues using guided
+    wave elastography: Inverse method and numerical experiments'
+  authors:
+  - Guo-Yang Li
+  - Yanping Cao
+  publisher: The Journal of the Acoustical Society of America
+  date: '2017-09-01'
+  link: https://doi.org/gb2bkk
+  orcid: 0000-0002-5939-9293
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ULTSYM.2017.8092267
+  title: Comparison of different motion estimation methods for vessel cross-sectional
+    shear wave imaging
+  authors:
+  - Qiong He
+  - Guoyang Li
+  - Yanping Cao
+  - Jianwen Luo
+  publisher: 2017 IEEE International Ultrasonics Symposium (IUS)
+  date: '2017-09-01'
+  link: https://doi.org/gt4xqd
+  orcid: 0000-0002-5939-9293
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ULTSYM.2017.8092805
+  title: Comparison of different motion estimation methods for vessel cross-sectional
+    shear wave imaging
+  authors:
+  - Qiong He
+  - Guo-Yang Li
+  - Yanping Cao
+  - Jianwen Luo
+  publisher: 2017 IEEE International Ultrasonics Symposium (IUS)
+  date: '2017-09-01'
+  link: https://doi.org/gt4xqf
+  orcid: 0000-0002-5939-9293
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1063/1.4985009
+  title: Edge wrinkling of a soft ridge with gradient thickness
+  authors:
+  - Yan Zhao
+  - Zhi-Chun Shao
+  - Guo-Yang Li
+  - Yang Zheng
+  - Wan-Yu Zhang
+  - Bo Li
+  - Yanping Cao
+  - Xi-Qiao Feng
+  publisher: Applied Physics Letters
+  date: '2017-06-05'
+  link: https://doi.org/gt4xqg
+  orcid: 0000-0002-5939-9293
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ULTSYM.2017.8091957
+  title: 'Notice of Removal: Guided wave elastography of press-stressed thin-walled
+    soft tissues'
+  authors:
+  - Guo-Yang Li
+  - Qiong He
+  - Robert Mangan
+  - Guo-Qiang Xu
+  - Jianwen Luo
+  - Michel Destrade
+  - Yanping Cao
+  publisher: 2017 IEEE International Ultrasonics Symposium (IUS)
+  date: '2017-09-01'
+  link: https://doi.org/gt4xqh
+  orcid: 0000-0002-5939-9293
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ULTSYM.2017.8091785
+  title: 'Notice of Removal: Guided wave elastography of pressurized artery in both
+    longitudinal and transverse sections: Validation in phantom experiments'
+  authors:
+  - Qiong He
+  - Guoyang Li
+  - Yanping Cao
+  - Jianwen Luo
+  publisher: 2017 IEEE International Ultrasonics Symposium (IUS)
+  date: '2017-09-01'
+  link: https://doi.org/gt4xqj
+  orcid: 0000-0002-5939-9293
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.jmps.2017.02.008
+  title: 'Guided waves in pre-stressed hyperelastic plates and tubes: Application
+    to the ultrasound elastography of thin-walled soft materials'
+  authors:
+  - Guo-Yang Li
+  - Qiong He
+  - Robert Mangan
+  - Guoqiang Xu
+  - Chi Mo
+  - Jianwen Luo
+  - Michel Destrade
+  - Yanping Cao
+  publisher: Journal of the Mechanics and Physics of Solids
+  date: '2017-05-01'
+  link: https://doi.org/f984x6
+  orcid: 0000-0002-5939-9293
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1098/rspa.2016.0841
+  title: Mechanics of ultrasound elastography
+  authors:
+  - Guo-Yang Li
+  - Yanping Cao
+  publisher: 'Proceedings of the Royal Society A: Mathematical, Physical and Engineering
+    Sciences'
+  date: '2017-03-01'
+  link: https://doi.org/gf2bh8
+  orcid: 0000-0002-5939-9293
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.ultrasmedbio.2017.03.001
+  title: Novel Method for Vessel Cross-Sectional Shear Wave Imaging
+  authors:
+  - Qiong He
+  - Guo-Yang Li
+  - Fu-Feng Lee
+  - Qihao Zhang
+  - Yanping Cao
+  - Jianwen Luo
+  publisher: Ultrasound in Medicine &amp; Biology
+  date: '2017-07-01'
+  link: https://doi.org/gt4xqk
+  orcid: 0000-0002-5939-9293
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.eml.2017.09.009
+  title: 'Tissue-mimicking materials for elastography phantoms: A review'
+  authors:
+  - Yanping Cao
+  - Guo-Yang Li
+  - Xiao Zhang
+  - Yan-Lin Liu
+  publisher: Extreme Mechanics Letters
+  date: '2017-11-01'
+  link: https://doi.org/gt4xqm
+  orcid: 0000-0002-5939-9293
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.eml.2016.12.002
+  title: Wrinkling of a stiff film resting on a fiber-filled soft substrate and its
+    potential application as tunable metamaterials
+  authors:
+  - Yang Zheng
+  - Guo-Yang Li
+  - Yanping Cao
+  - Xi-Qiao Feng
+  publisher: Extreme Mechanics Letters
+  date: '2017-02-01'
+  link: https://doi.org/gmwswc
+  orcid: 0000-0002-5939-9293
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1039/c6sm00265j
+  title: Controlling elastic wave propagation in a soft bilayer system via wrinkling-induced
+    stress patterns
+  authors:
+  - Guo-Yang Li
+  - Yang Zheng
+  - Yanping Cao
+  - Xi-Qiao Feng
+  - Wanyu Zhang
+  publisher: Soft Matter
+  date: '2016-01-01'
+  link: https://doi.org/gmwsns
+  orcid: 0000-0002-5939-9293
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.jmps.2016.05.023
+  title: 'Elastic Cherenkov effects in transversely isotropic soft materials-I: Theoretical
+    analysis, simulations and inverse method'
+  authors:
+  - Guo-Yang Li
+  - Yang Zheng
+  - Yanlin Liu
+  - Michel Destrade
+  - Yanping Cao
+  publisher: Journal of the Mechanics and Physics of Solids
+  date: '2016-11-01'
+  link: https://doi.org/f9frcs
+  orcid: 0000-0002-5939-9293
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.jmps.2016.04.028
+  title: 'Elastic Cherenkov effects in transversely isotropic soft materials-II: Ex
+    vivo and in vivo experiments'
+  authors:
+  - Guo-Yang Li
+  - Qiong He
+  - Lin-Xue Qian
+  - Huiying Geng
+  - Yanlin Liu
+  - Xue-Yi Yang
+  - Jianwen Luo
+  - Yanping Cao
+  publisher: Journal of the Mechanics and Physics of Solids
+  date: '2016-09-01'
+  link: https://doi.org/f82sf9
+  orcid: 0000-0002-5939-9293
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.jmbbm.2016.09.026
+  title: Temperature-dependent elastic properties of brain tissues measured with the
+    shear wave elastography method
+  authors:
+  - Yan-Lin Liu
+  - Guo-Yang Li
+  - Ping He
+  - Ze-Qi Mao
+  - Yanping Cao
+  publisher: Journal of the Mechanical Behavior of Biomedical Materials
+  date: '2017-01-01'
+  link: https://doi.org/ggrsrh
+  orcid: 0000-0002-5939-9293
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.eml.2016.06.005
+  title: Tunable defect mode in a soft wrinkled bilayer system
+  authors:
+  - Guo-Yang Li
+  - Yang Zheng
+  - Yanping Cao
+  publisher: Extreme Mechanics Letters
+  date: '2016-12-01'
+  link: https://doi.org/gt4xqn
+  orcid: 0000-0002-5939-9293
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.media.2014.10.010
+  title: 'Characterization of the nonlinear elastic properties of soft tissues using
+    the supersonic shear imaging (SSI) technique: Inverse method, ex vivo and in vivo
+    experiments'
+  authors:
+  - Yi Jiang
+  - Guo-Yang Li
+  - Lin-Xue Qian
+  - Xiang-Dong Hu
+  - Dong Liu
+  - Si Liang
+  - Yanping Cao
+  publisher: Medical Image Analysis
+  date: '2015-02-01'
+  link: https://doi.org/f62x9t
+  orcid: 0000-0002-5939-9293
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1118/1.4922133
+  title: Determining the <i>in vivo</i> elastic properties of dermis layer of human
+    skin using the supersonic shear imaging technique and inverse analysis
+  authors:
+  - "Cheng\u2010Cheng Luo"
+  - "Lin\u2010Xue Qian"
+  - "Guo\u2010Yang Li"
+  - Yi Jiang
+  - Si Liang
+  - Yanping Cao
+  publisher: Medical Physics
+  date: '2015-06-12'
+  link: https://doi.org/f7j8h2
+  orcid: 0000-0002-5939-9293
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.jmps.2015.06.003
+  title: Effect of lateral dimension on the surface wrinkling of a thin film on compliant
+    substrate induced by differential growth/swelling
+  authors:
+  - Yan Zhao
+  - Xue Han
+  - Guoyang Li
+  - Conghua Lu
+  - Yanping Cao
+  - Xi-Qiao Feng
+  - Huajian Gao
+  publisher: Journal of the Mechanics and Physics of Solids
+  date: '2015-10-01'
+  link: https://doi.org/gt4xqp
+  orcid: 0000-0002-5939-9293
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s10237-015-0658-0
+  title: Measuring the linear and nonlinear elastic properties of brain tissue with
+    shear waves and inverse analysis
+  authors:
+  - Yi Jiang
+  - Guoyang Li
+  - Lin-Xue Qian
+  - Si Liang
+  - Michel Destrade
+  - Yanping Cao
+  publisher: Biomechanics and Modeling in Mechanobiology
+  date: '2015-02-20'
+  link: https://doi.org/f8rmqv
+  orcid: 0000-0002-5939-9293
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1115/1.4027159
+  title: Determination of the Reduced Creep Function of Viscoelastic Compliant Materials
+    Using Pipette Aspiration Method
+  authors:
+  - Yan-Ping Cao
+  - Guo-Yang Li
+  - Man-Gong Zhang
+  - Xi-Qiao Feng
+  publisher: Journal of Applied Mechanics
+  date: '2014-04-01'
+  link: https://doi.org/gt4xqq
+  orcid: 0000-0002-5939-9293
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.jmps.2014.03.012
+  title: 'Pipette aspiration of hyperelastic compliant materials: Theoretical analysis,
+    simulations and experiments'
+  authors:
+  - Man-Gong Zhang
+  - Yan-Ping Cao
+  - Guo-Yang Li
+  - Xi-Qiao Feng
+  publisher: Journal of the Mechanics and Physics of Solids
+  date: '2014-08-01'
+  link: https://doi.org/gk48nw
+  orcid: 0000-0002-5939-9293
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s10237-013-0481-4
+  title: Spherical indentation method for determining the constitutive parameters
+    of hyperelastic soft materials
+  authors:
+  - Man-Gong Zhang
+  - Yan-Ping Cao
+  - Guo-Yang Li
+  - Xi-Qiao Feng
+  publisher: Biomechanics and Modeling in Mechanobiology
+  date: '2013-03-13'
+  link: https://doi.org/f5q98t
+  orcid: 0000-0002-5939-9293
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.7554/eLife.97399.1
@@ -52,235 +675,8 @@
   publisher: eLife
   date: '2024-06-13'
   link: https://doi.org/gtzht7
-  orcid: 0000-0002-2336-4531
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.7554/elife.87753.2
-  title: GABAergic synaptic scaling is triggered by changes in spiking activity rather
-    than AMPA receptor activation
-  authors:
-  - Carlos Gonzalez-Islas
-  - Zahraa Sabra
-  - Ming-fai Fong
-  - "Pernille B\xFClow"
-  - Nicholas Au Yong
-  - Kathrin Engisch
-  - Peter Wenner
-  publisher: eLife Sciences Publications, Ltd
-  date: '2024-06-07'
-  link: https://doi.org/gtztk3
-  orcid: 0000-0002-2336-4531
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2022.02.04.479188
-  title: Reward contingency gates selective cholinergic suppression of amygdala neurons
-  authors:
-  - Eyal Y. Kimchi
-  - Anthony Burgos-Robles
-  - Gillian A. Matthews
-  - Tatenda Chakoma
-  - Makenzie Patarino
-  - Javier Weddington
-  - Cody A. Siciliano
-  - Wannan Yang
-  - Shaun Foutch
-  - Renee Simons
-  - Ming-fai Fong
-  - Miao Jing
-  - Yulong Li
-  - Daniel B. Polley
-  - Kay M. Tye
-  publisher: Cold Spring Harbor Laboratory
-  date: '2022-02-05'
-  link: https://doi.org/gq6mfx
-  orcid: 0000-0002-2336-4531
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.3389/fnins.2023.1167007
-  title: Investigation of the efficacy and safety of retinal inactivation as a treatment
-    for amblyopia in cats
-  authors:
-  - Mairin Hogan
-  - Nadia R. DiCostanzo
-  - Nathan A. Crowder
-  - Ming-fai Fong
-  - Kevin R. Duffy
-  publisher: Frontiers in Neuroscience
-  date: '2023-06-20'
-  link: https://doi.org/gsjtrm
-  orcid: 0000-0002-2336-4531
-  plugin: sources.py
-  file: sources.yaml
-  image: ../images/publications/hogan2023-fnins_thumbnail.png
-- id: doi:10.7554/eLife.70023
-  title: Correction of amblyopia in cats and mice after the critical period
-  authors:
-  - Ming-fai Fong
-  - Kevin R Duffy
-  - Madison P Leet
-  - Christian T Candler
-  - Mark F Bear
-  publisher: eLife
-  date: '2021-08-31'
-  link: https://doi.org/gmqmgr
-  orcid: 0000-0002-2336-4531
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1523/jneurosci.1393-19.2020
-  title: Divergent Synaptic Scaling of Miniature EPSCs following Activity Blockade
-    in Dissociated Neuronal Cultures
-  authors:
-  - Amanda L. Hanes
-  - Andrew G. Koesters
-  - Ming-fai Fong
-  - Haider F. Altimimi
-  - David Stellwagen
-  - Peter Wenner
-  - Kathrin L. Engisch
-  publisher: The Journal of Neuroscience
-  date: '2020-04-20'
-  link: https://doi.org/gkcdsv
-  orcid: 0000-0002-2336-4531
-  plugin: sources.py
-  file: sources.yaml
-  image: ../images/publications/hanes2020-jneuro_thumbnail.png
-- id: doi:10.1093/cercor/bhz260
-  title: Distinct Laminar Requirements for NMDA Receptors in Experience-Dependent
-    Visual Cortical Plasticity
-  authors:
-  - Ming-fai Fong
-  - Peter Sb Finnie
-  - Taekeun Kim
-  - Aurore Thomazeau
-  - Eitan S Kaplan
-  - Samuel F Cooke
-  - Mark F Bear
-  publisher: Cerebral Cortex
-  date: '2019-12-12'
-  link: https://doi.org/gkcdsx
-  orcid: 0000-0002-2336-4531
-  plugin: sources.py
-  file: sources.yaml
-  image: ../images/publications/fong2020-cerebctx_thumbnail.png
-- id: doi:10.1002/cne.24336
-  title: "Recovery from the anatomical effects of long\u2010term monocular deprivation\
-    \ in cat lateral geniculate nucleus"
-  authors:
-  - Kevin R. Duffy
-  - "Ming\u2010fai Fong"
-  - Donald E. Mitchell
-  - Mark F. Bear
-  publisher: Journal of Comparative Neurology
-  date: '2017-10-27'
-  link: https://doi.org/gcgzxt
-  orcid: 0000-0002-2336-4531
-  plugin: sources.py
-  file: sources.yaml
-  image: ../images/publications/duffy2018-jcn_thumbnail.png
-- id: doi:10.1073/pnas.1613279113
-  title: Rapid recovery from the effects of early monocular deprivation is enabled
-    by temporary inactivation of the retinas
-  authors:
-  - Ming-fai Fong
-  - Donald E. Mitchell
-  - Kevin R. Duffy
-  - Mark F. Bear
-  publisher: Proceedings of the National Academy of Sciences
-  date: '2016-11-17'
-  link: https://doi.org/f9f2gw
-  orcid: 0000-0002-2336-4531
-  plugin: sources.py
-  file: sources.yaml
-  image: ../images/publications/fong2016-pnas_thumbnail.png
-- id: doi:10.7554/elife.07192
-  title: Optogenetic feedback control of neural activity
-  authors:
-  - Jonathan P Newman
-  - Ming-fai Fong
-  - Daniel C Millard
-  - Clarissa J Whitmire
-  - Garrett B Stanley
-  - Steve M Potter
-  publisher: eLife
-  date: '2015-07-03'
-  link: https://doi.org/ghbdss
-  orcid: 0000-0002-2336-4531
-  plugin: sources.py
-  file: sources.yaml
-  image: ../images/publications/newman2015-elife_thumbnail.png
-- id: doi:10.1038/ncomms7339
-  title: Upward synaptic scaling is dependent on neurotransmission rather than spiking
-  authors:
-  - Ming-fai Fong
-  - Jonathan P. Newman
-  - Steve M. Potter
-  - Peter Wenner
-  publisher: Nature Communications
-  date: '2015-03-09'
-  link: https://doi.org/f67qht
-  orcid: 0000-0002-2336-4531
-  plugin: sources.py
-  file: sources.yaml
-  image: ../images/publications/fong2015-natcomm_thumbnail.png
-- id: doi:10.3389/fncir.2012.00098
-  title: Closed-Loop, Multichannel Experimentation Using the Open-Source NeuroRighter
-    Electrophysiology Platform
-  authors:
-  - Jonathan P. Newman
-  - Riley Zeller-Townson
-  - Ming-Fai Fong
-  - Sharanya Arcot Desai
-  - Robert E. Gross
-  - Steve M. Potter
-  publisher: Frontiers in Neural Circuits
-  date: '2013-01-01'
-  link: https://doi.org/gkcds5
-  orcid: 0000-0002-2336-4531
-  plugin: sources.py
-  file: sources.yaml
-  image: ../images/publications/newman2013-fncir_thumbnail.png
-- id: doi:10.3389/fncir.2013.00184
-  title: Delivery of continuously-varying stimuli using channelrhodopsin-2
-  authors:
-  - Tatjana Tchumatchenko
-  - Jonathan P. Newman
-  - Ming-fai Fong
-  - Steve M. Potter
-  publisher: Frontiers in Neural Circuits
-  date: '2013-01-01'
-  link: https://doi.org/ghbhp2
-  orcid: 0000-0002-2336-4531
-  plugin: sources.py
-  file: sources.yaml
-  image: ../images/publications/tchumatchenko-newman2013-fncir_thumbnail.png
-- id: doi:10.1186/1471-2202-13-s1-p71
-  title: Amplitude modulated photostimulation for probing neuronal network dynamics
-  authors:
-  - Jonathan P Newman
-  - Tatjana Tchumatchenko
-  - Ming-fai Fong
-  - Steve M Potter
-  publisher: BMC Neuroscience
-  date: '2012-07-01'
-  link: https://doi.org/gb5hjf
-  orcid: 0000-0002-2336-4531
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1109/robot.2004.1302452
-  title: Actuating a simple 3D passive dynamic walker
-  authors:
-  - R. Tedrake
-  - T.W. Zhang
-  - ' Ming-fai Fong'
-  - H.S. Seung
-  publisher: IEEE International Conference on Robotics and Automation, 2004. Proceedings.
-    ICRA '04. 2004
-  date: '2004-01-01'
-  link: https://doi.org/dv3zh3
-  orcid: 0000-0002-2336-4531
-  plugin: sources.py
-  file: sources.yaml
-  image: ../images/publications/tedrake2004-icra_thumbnail.png
 - id: doi:10.7554/eLife.87753.2
   title: GABAergic synaptic scaling is triggered by changes in spiking activity rather
     than AMPA receptor activation
@@ -296,6 +692,21 @@
   date: '2024-06-07'
   link: https://doi.org/gtztk3
   image: ../images/publications/gonzalez-islas2023-biorxiv_thumbnail.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3389/fnins.2023.1167007
+  title: Investigation of the efficacy and safety of retinal inactivation as a treatment
+    for amblyopia in cats
+  authors:
+  - Mairin Hogan
+  - Nadia R. DiCostanzo
+  - Nathan A. Crowder
+  - Ming-fai Fong
+  - Kevin R. Duffy
+  publisher: Frontiers in Neuroscience
+  date: '2023-06-20'
+  link: https://doi.org/gsjtrm
+  image: ../images/publications/hogan2023-fnins_thumbnail.png
   plugin: sources.py
   file: sources.yaml
 - id: 10.7554/eLife.89093.2
@@ -334,5 +745,138 @@
   date: '2021-08-31'
   link: https://doi.org/gmqmgr
   image: ../images/publications/fong-duffy2021-elife_thumbnail.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1523/jneurosci.1393-19.2020
+  title: Divergent Synaptic Scaling of Miniature EPSCs following Activity Blockade
+    in Dissociated Neuronal Cultures
+  authors:
+  - Amanda L. Hanes
+  - Andrew G. Koesters
+  - Ming-fai Fong
+  - Haider F. Altimimi
+  - David Stellwagen
+  - Peter Wenner
+  - Kathrin L. Engisch
+  publisher: The Journal of Neuroscience
+  date: '2020-04-20'
+  link: https://doi.org/gkcdsv
+  image: ../images/publications/hanes2020-jneuro_thumbnail.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1093/cercor/bhz260
+  title: Distinct Laminar Requirements for NMDA Receptors in Experience-Dependent
+    Visual Cortical Plasticity
+  authors:
+  - Ming-fai Fong
+  - Peter Sb Finnie
+  - Taekeun Kim
+  - Aurore Thomazeau
+  - Eitan S Kaplan
+  - Samuel F Cooke
+  - Mark F Bear
+  publisher: Cerebral Cortex
+  date: '2019-12-12'
+  link: https://doi.org/gkcdsx
+  image: ../images/publications/fong2020-cerebctx_thumbnail.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/cne.24336
+  title: "Recovery from the anatomical effects of long\u2010term monocular deprivation\
+    \ in cat lateral geniculate nucleus"
+  authors:
+  - Kevin R. Duffy
+  - "Ming\u2010fai Fong"
+  - Donald E. Mitchell
+  - Mark F. Bear
+  publisher: Journal of Comparative Neurology
+  date: '2017-10-27'
+  link: https://doi.org/gcgzxt
+  image: ../images/publications/duffy2018-jcn_thumbnail.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1073/pnas.1613279113
+  title: Rapid recovery from the effects of early monocular deprivation is enabled
+    by temporary inactivation of the retinas
+  authors:
+  - Ming-fai Fong
+  - Donald E. Mitchell
+  - Kevin R. Duffy
+  - Mark F. Bear
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2016-11-17'
+  link: https://doi.org/f9f2gw
+  image: ../images/publications/fong2016-pnas_thumbnail.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.7554/elife.07192
+  title: Optogenetic feedback control of neural activity
+  authors:
+  - Jonathan P Newman
+  - Ming-fai Fong
+  - Daniel C Millard
+  - Clarissa J Whitmire
+  - Garrett B Stanley
+  - Steve M Potter
+  publisher: eLife
+  date: '2015-07-03'
+  link: https://doi.org/ghbdss
+  image: ../images/publications/newman2015-elife_thumbnail.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/ncomms7339
+  title: Upward synaptic scaling is dependent on neurotransmission rather than spiking
+  authors:
+  - Ming-fai Fong
+  - Jonathan P. Newman
+  - Steve M. Potter
+  - Peter Wenner
+  publisher: Nature Communications
+  date: '2015-03-09'
+  link: https://doi.org/f67qht
+  image: ../images/publications/fong2015-natcomm_thumbnail.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3389/fncir.2013.00184
+  title: Delivery of continuously-varying stimuli using channelrhodopsin-2
+  authors:
+  - Tatjana Tchumatchenko
+  - Jonathan P. Newman
+  - Ming-fai Fong
+  - Steve M. Potter
+  publisher: Frontiers in Neural Circuits
+  date: '2013-01-01'
+  link: https://doi.org/ghbhp2
+  image: ../images/publications/tchumatchenko-newman2013-fncir_thumbnail.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3389/fncir.2012.00098
+  title: Closed-Loop, Multichannel Experimentation Using the Open-Source NeuroRighter
+    Electrophysiology Platform
+  authors:
+  - Jonathan P. Newman
+  - Riley Zeller-Townson
+  - Ming-Fai Fong
+  - Sharanya Arcot Desai
+  - Robert E. Gross
+  - Steve M. Potter
+  publisher: Frontiers in Neural Circuits
+  date: '2013-01-01'
+  link: https://doi.org/gkcds5
+  image: ../images/publications/newman2013-fncir_thumbnail.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/robot.2004.1302452
+  title: Actuating a simple 3D passive dynamic walker
+  authors:
+  - R. Tedrake
+  - T.W. Zhang
+  - ' Ming-fai Fong'
+  - H.S. Seung
+  publisher: IEEE International Conference on Robotics and Automation, 2004. Proceedings.
+    ICRA '04. 2004
+  date: '2004-01-01'
+  link: https://doi.org/dv3zh3
+  image: ../images/publications/tedrake2004-icra_thumbnail.png
   plugin: sources.py
   file: sources.yaml
