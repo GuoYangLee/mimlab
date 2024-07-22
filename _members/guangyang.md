@@ -5,7 +5,7 @@ description:
 role: current-master
 aliases:
   - G. Yang
-  - L Yang
+  - G Yang
 links:
   email: ygtops@outlook.com
 ---
