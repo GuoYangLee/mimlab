@@ -89,8 +89,16 @@
   link: https://doi.org/gq9w74
   orcid: 0000-0002-5939-9293
   member: Guoyang Li
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  description: In this work, we demonstrate that the supershear surface wave is consistently
+    supported in solids, irrespective of the shear quality factor
+  image: images/publications/TMI2024.png
+  tags:
+  - USWE
+  - PINN
+  - FWI
 - id: doi:10.1038/s42005-022-01000-3
   title: Non-destructive mapping of stress and strain in soft thin films through sound
     waves
