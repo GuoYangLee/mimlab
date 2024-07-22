@@ -1,5 +1,5 @@
 ---
-name: Guang Yang
+name: Guang Yang (杨光)
 image: images/headshots/guangyang.jpg
 description: 
 role: current-master
