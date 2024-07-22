@@ -18,7 +18,7 @@ Inquiries can be directed to [lgy@pku.edu.cn](mailto:lgy@pku.edu.cn).
 {% capture text %}
 We are part of the [College of Engineering](https://www.coe.pku.edu.cn/) at Peking University.  The lab is located in the XinAo Building, Room 4042.
 
-Address: Yiheyuan Road No.5, Haidian District, Beijing, China
+Address: Yiheyuan Road No.5, Haidian District, Beijing 100871, China
 
 {% endcapture %}
 
