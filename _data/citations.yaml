@@ -11,6 +11,7 @@
   date: '2024-05-01'
   link: https://doi.org/gs9q67
   orcid: 0000-0002-5939-9293
+  member: Guoyang Li
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/TMI.2023.3338178
@@ -25,6 +26,7 @@
   date: '2024-04-01'
   link: https://doi.org/gt4xp4
   orcid: 0000-0002-5939-9293
+  member: Guoyang Li
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.actbio.2023.12.019
@@ -38,6 +40,7 @@
   date: '2024-02-01'
   link: https://doi.org/gtmvcx
   orcid: 0000-0002-5939-9293
+  member: Guoyang Li
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1126/sciadv.add4082
@@ -55,6 +58,7 @@
   date: '2023-03-10'
   link: https://doi.org/grwvtc
   orcid: 0000-0002-5939-9293
+  member: Guoyang Li
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.jmps.2022.105085
@@ -68,6 +72,7 @@
   date: '2022-12-01'
   link: https://doi.org/gq9w74
   orcid: 0000-0002-5939-9293
+  member: Guoyang Li
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1038/s42005-022-01000-3
@@ -82,6 +87,7 @@
   date: '2022-09-17'
   link: https://doi.org/gtzx3b
   orcid: 0000-0002-5939-9293
+  member: Guoyang Li
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.actbio.2022.04.030
@@ -97,6 +103,7 @@
   date: '2022-07-01'
   link: https://doi.org/gtmvbm
   orcid: 0000-0002-5939-9293
+  member: Guoyang Li
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/TMI.2022.3141613
@@ -113,6 +120,7 @@
   date: '2022-06-01'
   link: https://doi.org/gt4xp5
   orcid: 0000-0002-5939-9293
+  member: Guoyang Li
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.jbiomech.2021.110444
@@ -129,6 +137,7 @@
   date: '2021-06-01'
   link: https://doi.org/gt4xp6
   orcid: 0000-0002-5939-9293
+  member: Guoyang Li
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1121/10.0002959
@@ -142,6 +151,7 @@
   date: '2020-12-01'
   link: https://doi.org/gng3hd
   orcid: 0000-0002-5939-9293
+  member: Guoyang Li
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.jmps.2020.103896
@@ -154,6 +164,7 @@
   date: '2020-05-01'
   link: https://doi.org/gt4xp7
   orcid: 0000-0002-5939-9293
+  member: Guoyang Li
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.eml.2020.100636
@@ -173,6 +184,7 @@
   date: '2020-02-01'
   link: https://doi.org/gt4xp8
   orcid: 0000-0002-5939-9293
+  member: Guoyang Li
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.eml.2019.01.009
@@ -186,6 +198,7 @@
   date: '2019-02-01'
   link: https://doi.org/gt4xp9
   orcid: 0000-0002-5939-9293
+  member: Guoyang Li
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.actbio.2018.12.002
@@ -200,6 +213,7 @@
   date: '2019-01-01'
   link: https://doi.org/gnxsgg
   orcid: 0000-0002-5939-9293
+  member: Guoyang Li
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.ijnonlinmec.2018.12.005
@@ -215,6 +229,7 @@
   date: '2019-03-01'
   link: https://doi.org/gt4xqb
   orcid: 0000-0002-5939-9293
+  member: Guoyang Li
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1098/rsta.2018.0075
@@ -233,6 +248,7 @@
   date: '2019-03-18'
   link: https://doi.org/gt4xqc
   orcid: 0000-0002-5939-9293
+  member: Guoyang Li
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.jbiomech.2018.05.018
@@ -249,6 +265,7 @@
   date: '2018-07-01'
   link: https://doi.org/gdzgns
   orcid: 0000-0002-5939-9293
+  member: Guoyang Li
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.jmbbm.2018.04.017
@@ -266,6 +283,7 @@
   date: '2018-07-01'
   link: https://doi.org/ggrsrf
   orcid: 0000-0002-5939-9293
+  member: Guoyang Li
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.jmps.2017.11.024
@@ -280,6 +298,7 @@
   date: '2018-03-01'
   link: https://doi.org/gc7h82
   orcid: 0000-0002-5939-9293
+  member: Guoyang Li
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.ultrasmedbio.2016.10.006
@@ -295,6 +314,7 @@
   date: '2017-02-01'
   link: https://doi.org/f9zknv
   orcid: 0000-0002-5939-9293
+  member: Guoyang Li
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.jbiomech.2016.12.006
@@ -311,6 +331,7 @@
   date: '2017-01-01'
   link: https://doi.org/f9sr56
   orcid: 0000-0002-5939-9293
+  member: Guoyang Li
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1121/1.5002685
@@ -323,6 +344,7 @@
   date: '2017-09-01'
   link: https://doi.org/gb2bkk
   orcid: 0000-0002-5939-9293
+  member: Guoyang Li
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/ULTSYM.2017.8092267
@@ -337,6 +359,7 @@
   date: '2017-09-01'
   link: https://doi.org/gt4xqd
   orcid: 0000-0002-5939-9293
+  member: Guoyang Li
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/ULTSYM.2017.8092805
@@ -351,6 +374,7 @@
   date: '2017-09-01'
   link: https://doi.org/gt4xqf
   orcid: 0000-0002-5939-9293
+  member: Guoyang Li
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1063/1.4985009
@@ -368,6 +392,7 @@
   date: '2017-06-05'
   link: https://doi.org/gt4xqg
   orcid: 0000-0002-5939-9293
+  member: Guoyang Li
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/ULTSYM.2017.8091957
@@ -385,6 +410,7 @@
   date: '2017-09-01'
   link: https://doi.org/gt4xqh
   orcid: 0000-0002-5939-9293
+  member: Guoyang Li
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/ULTSYM.2017.8091785
@@ -399,6 +425,7 @@
   date: '2017-09-01'
   link: https://doi.org/gt4xqj
   orcid: 0000-0002-5939-9293
+  member: Guoyang Li
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.jmps.2017.02.008
@@ -417,6 +444,7 @@
   date: '2017-05-01'
   link: https://doi.org/f984x6
   orcid: 0000-0002-5939-9293
+  member: Guoyang Li
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1098/rspa.2016.0841
@@ -429,6 +457,7 @@
   date: '2017-03-01'
   link: https://doi.org/gf2bh8
   orcid: 0000-0002-5939-9293
+  member: Guoyang Li
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.ultrasmedbio.2017.03.001
@@ -444,6 +473,7 @@
   date: '2017-07-01'
   link: https://doi.org/gt4xqk
   orcid: 0000-0002-5939-9293
+  member: Guoyang Li
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.eml.2017.09.009
@@ -457,6 +487,7 @@
   date: '2017-11-01'
   link: https://doi.org/gt4xqm
   orcid: 0000-0002-5939-9293
+  member: Guoyang Li
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.eml.2016.12.002
@@ -471,6 +502,7 @@
   date: '2017-02-01'
   link: https://doi.org/gmwswc
   orcid: 0000-0002-5939-9293
+  member: Guoyang Li
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1039/c6sm00265j
@@ -486,6 +518,7 @@
   date: '2016-01-01'
   link: https://doi.org/gmwsns
   orcid: 0000-0002-5939-9293
+  member: Guoyang Li
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.jmps.2016.05.023
@@ -501,6 +534,7 @@
   date: '2016-11-01'
   link: https://doi.org/f9frcs
   orcid: 0000-0002-5939-9293
+  member: Guoyang Li
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.jmps.2016.04.028
@@ -519,6 +553,7 @@
   date: '2016-09-01'
   link: https://doi.org/f82sf9
   orcid: 0000-0002-5939-9293
+  member: Guoyang Li
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.jmbbm.2016.09.026
@@ -534,6 +569,7 @@
   date: '2017-01-01'
   link: https://doi.org/ggrsrh
   orcid: 0000-0002-5939-9293
+  member: Guoyang Li
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.eml.2016.06.005
@@ -546,6 +582,7 @@
   date: '2016-12-01'
   link: https://doi.org/gt4xqn
   orcid: 0000-0002-5939-9293
+  member: Guoyang Li
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.media.2014.10.010
@@ -564,6 +601,7 @@
   date: '2015-02-01'
   link: https://doi.org/f62x9t
   orcid: 0000-0002-5939-9293
+  member: Guoyang Li
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1118/1.4922133
@@ -580,6 +618,7 @@
   date: '2015-06-12'
   link: https://doi.org/f7j8h2
   orcid: 0000-0002-5939-9293
+  member: Guoyang Li
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.jmps.2015.06.003
@@ -597,6 +636,7 @@
   date: '2015-10-01'
   link: https://doi.org/gt4xqp
   orcid: 0000-0002-5939-9293
+  member: Guoyang Li
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1007/s10237-015-0658-0
@@ -613,6 +653,7 @@
   date: '2015-02-20'
   link: https://doi.org/f8rmqv
   orcid: 0000-0002-5939-9293
+  member: Guoyang Li
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1115/1.4027159
@@ -627,6 +668,7 @@
   date: '2014-04-01'
   link: https://doi.org/gt4xqq
   orcid: 0000-0002-5939-9293
+  member: Guoyang Li
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.jmps.2014.03.012
@@ -641,6 +683,7 @@
   date: '2014-08-01'
   link: https://doi.org/gk48nw
   orcid: 0000-0002-5939-9293
+  member: Guoyang Li
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1007/s10237-013-0481-4
@@ -655,6 +698,7 @@
   date: '2013-03-13'
   link: https://doi.org/f5q98t
   orcid: 0000-0002-5939-9293
+  member: Guoyang Li
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1038/s41467-023-40625-y
