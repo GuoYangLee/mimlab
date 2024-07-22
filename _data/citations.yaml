@@ -69,9 +69,6 @@
   - USWE
   - Acoustoelasticity
   - Stress measurement
-  buttons:
-  - type: SI
-    link: https://github.com/your-lab/some-repo
 - id: doi:10.1016/j.jmps.2022.105085
   title: Supershear surface waves reveal prestress and anisotropy of soft materials
   authors:
@@ -729,8 +726,5 @@
   - OCE
   - Ultra-wideband OCV
   - Ultrasonic shear waves
-  buttons:
-  - type: SI
-    link: https://github.com/your-lab/some-repo
   plugin: sources.py
   file: sources.yaml
