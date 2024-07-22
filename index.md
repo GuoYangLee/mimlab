@@ -5,6 +5,6 @@ The MiM lab led by Prof. Guoyang Li focuses on establishing fundamental wave the
 
 {%
   include figure.html
-  image="images/cornea-oct.png"
+  image="images/background.png"
   width="90%"
 %}
