@@ -16,7 +16,7 @@ links:
   google-scholar: QtkQ_qQAAAAJ&hl
 ---
 
-Ming-fai Fong is an Assistant Professor in the Coulter Department of Biomedical Engineering at Georgia Tech and Emory. She received her BS in Mechanical Engineering from MIT and PhD in Neuroscience from Emory University. She completed her postdoctoral training in the Department of Brain and Cognitive Sciences at MIT and a visiting lectureship in the Neuroscience Department at Wellesley College.
+Dr. Li is an Assistant Professor in the Department of Mechanics and Engineering Science at Peking University. He obtained his BS in Engineering Mechanics in 2014 and his PhD in Solid Mechanics in 2019, both from Tsinghua University. From 2019 to 2022, he conducted postdoctoral research at the Wellman Center for Photomedicine at Harvard University. He joined Peking University as an assistant professor in 2023.
 
 {% include float.html clear=true %}
 
