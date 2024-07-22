@@ -20,11 +20,11 @@ Ming-fai Fong is an Assistant Professor in the Coulter Department of Biomedical 
 
 {% include float.html clear=true %}
 
-## All papers under Casey's ORCID:
+## All papers under Li's ORCID:
 
 {% capture content %}
 
-{% include list.html data="citations" component="citation" filters="member: casey-greene" %}
+{% include list.html data="citations" component="citation" filters="member: Guoyang Li" %}
 
 {% endcapture %}
 
