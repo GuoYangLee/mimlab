@@ -22,3 +22,11 @@
     - USWE
     - PINN
     - FWI
+- id: doi:10.1016/j.jmps.2022.105085
+  type: paper
+  description: In this work, we demonstrate that the supershear surface wave is consistently supported in solids, irrespective of the shear quality factor
+  image: images/publications/TMI2024.png
+  tags:
+    - USWE
+    - PINN
+    - FWI
