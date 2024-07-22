@@ -1,2 +1,15 @@
-- id: doi:10.7554/eLife.97399.1
-  publisher: eLife
+- id: doi:10.1038/s41467-023-40625-y
+  type: paper
+  description: NC2023
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-023-40625-y/MediaObjects/41467_2023_40625_Fig1_HTML.png?as=webp
+  buttons:
+    - type: source
+      link: https://github.com/your-lab/some-repo
+    - type: website
+      text: My Personal Website
+      link: http://some-website.com/
+  tags:
+    - OCE
+    - High frequency
+    - OCV
+  repo: your-lab/some-repo
