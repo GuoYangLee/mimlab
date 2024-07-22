@@ -1,7 +1,7 @@
 ---
 ---
 # Biomechanical imaging and modulation for living tissues
-The Fong Lab is a team of scientists and engineers seeking to understand how activity and experience drive plasticity in neural circuits.  Our goal is to harness knowledge of plasticity in the mammalian brain to develop treatments for neurological disorders and to promote lifelong learning.  Toward this goal, we use a variety of approaches including electrophysiology, imaging, optogenetics, modeling, and control systems engineering.  Current work focuses on disability, rehabilitation, and learning in the central visual system.
+The MiM lab led by Prof. Guoyang Li focuses on establishing fundamental wave theory for living tissues and developing methods and instruments to probe and modulate life activities related to diseases, growth, etc.
 
 {%
   include figure.html
