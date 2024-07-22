@@ -1,6 +1,6 @@
 ---
 name: Guoyang Li (李国洋)
-image: images/headshots/fong.png
+image: images/headshots/guoyangli.jpg
 description: 
 role: pi
 aliases:
