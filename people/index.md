@@ -13,7 +13,7 @@ nav:
 
 {% include list.html  data="members"  component="portrait"  filters="role: pi" %}
 {% include list.html  data="members"  component="portrait"  filters="role: current-phd" %}
-{% include list.html  data="members"  component="portrait"  filters="role: current-master" %}
+{% include list.html  data="members"  component="portrait"  filters="role: current-ms" %}
 {% include list.html  data="members"  component="portrait"  filters="role: current-undergrad" %}
 {% include list.html  data="members"  component="portrait"  filters="role: current-hs" %}
 
