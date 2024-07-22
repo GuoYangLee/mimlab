@@ -32,7 +32,7 @@
   type: paper
   description: This work establishes the full-waveform inversion for near-field shear
     waves with deep learning
-  image: https://ieeexplore.ieee.org/mediastore/IEEE/content/media/42/10490289/10336831/cao7abcdefghijklmnopqr-3338178-small.gif
+  image: images/publications/TMI2024.png
   tags:
   - USWE
   - PINN
@@ -94,7 +94,7 @@
   type: paper
   description: In this work, we demonstrate that the supershear surface wave is consistently
     supported in solids, irrespective of the shear quality factor
-  image: images/publications/TMI2024.png
+  image: images/publications/JMPS2022.png
   tags:
   - Wave mechanics
   - Supershear
