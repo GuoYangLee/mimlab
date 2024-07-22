@@ -27,6 +27,6 @@
   description: In this work, we demonstrate that the supershear surface wave is consistently supported in solids, irrespective of the shear quality factor
   image: images/publications/TMI2024.png
   tags:
-    - USWE
-    - PINN
-    - FWI
+    - Wave mechanics
+    - Supershear
+    - near-field surface wave
