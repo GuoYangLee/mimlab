@@ -657,23 +657,29 @@
   orcid: 0000-0002-5939-9293
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.7554/eLife.97399.1
-  title: 'Patch-walking: Coordinated multi-pipette patch clamp for efficiently finding
-    synaptic connections'
+- id: doi:10.1038/s41467-023-40625-y
+  title: Ultra-wideband optical coherence elastography from acoustic to ultrasonic
+    frequencies
   authors:
-  - Mighten C. Yip
-  - Mercedes M. Gonzalez
-  - Colby F. Lewallen
-  - Corey R. Landry
-  - Ilya Kolb
-  - Bo Yang
-  - William M. Stoy
-  - Ming-fai Fong
-  - Matthew J.M. Rowan
-  - Edward S. Boyden
-  - Craig R. Forest
-  publisher: eLife
-  date: '2024-06-13'
-  link: https://doi.org/gtzht7
+  - Xu Feng
+  - Guo-Yang Li
+  - Seok-Hyun Yun
+  publisher: Nature Communications
+  date: '2023-08-16'
+  link: https://doi.org/gtmvbp
+  type: paper
+  description: NC2023
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-023-40625-y/MediaObjects/41467_2023_40625_Fig1_HTML.png?as=webp
+  buttons:
+  - type: source
+    link: https://github.com/your-lab/some-repo
+  - type: website
+    text: My Personal Website
+    link: http://some-website.com/
+  tags:
+  - OCE
+  - High frequency
+  - OCV
+  repo: your-lab/some-repo
   plugin: sources.py
   file: sources.yaml
