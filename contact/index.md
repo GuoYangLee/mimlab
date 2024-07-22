@@ -8,7 +8,7 @@ nav:
 # {% include icon.html icon="fa-regular fa-paper-plane" %}Contact
 
 
-Inquiries can be directed to [ming-fai.fong@bme.gatech.edu](mailto:ming-fai.fong@bme.gatech.edu).
+Inquiries can be directed to [lgy@pku.edu.cn](mailto:lgy@pku.edu.cn).
 {:.center}
 
 {% include section.html %}
@@ -16,15 +16,15 @@ Inquiries can be directed to [ming-fai.fong@bme.gatech.edu](mailto:ming-fai.fong
 ## Directions
 
 {% capture text %}
-We are part of the [Coulter Department of Biomedical Engineering](https://www.bme.gatech.edu/) at Georgia Tech & Emory.  The lab is located on the Georgia Tech campus on the 3rd floor of the U.A. Whitaker building in Room 3237.  Card access is required for entry to lab spaces.
+We are part of the [College of Engineering](https://www.coe.pku.edu.cn/) at Peking University.  The lab is located in the XinAo Building, Room 4042.
 
-Address: 313 Ferst Drive, Room 3237, Atlanta, GA 30318 [[map](https://www.google.com/maps/place/U.A.+Whitaker+Building/@33.7783711,-84.3969727,15z)]
+Address: Yiheyuan Road #5, Haidian District, Beijing, China
 
 {% endcapture %}
 
 {%
   include feature.html
-  image="http://walshwebsiteassets.blob.core.windows.net/sitedocs/images/georgiatechuawhitakerbiomedicalengineeringbuilding1-8462.jpg"
+  image="https://news.pku.edu.cn/images/2023-05/917260d542454a6489aefa7ce25638c8.jpeg"
   headline=""
   text=text
 %}
