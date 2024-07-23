@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-hands-helping" %}Join
 
-We seek to build a multidisciplinary and diverse team of scientists and engineers.  Ming-fai is committed to providing hands-on training and gradually fostering intellectual independence, while tailoring mentorship to individual needs.
+We seek to build a multidisciplinary and diverse team of scientists and engineers. Guoyang is committed to providing hands-on training and gradually fostering intellectual independence, while tailoring mentorship to individual needs.
 
 {% include section.html %}
 
