@@ -20,7 +20,7 @@ Visual deprivation is a classic paradigm for studying how transient disruptions 
 
 {%
   include feature.html
-  image="images/research/cortical-spindle-lgn-stim.png"
-  headline="Experience-dependent plasticity in visual circuits"
+  image="images/research/shear-imaging.png"
+  headline="Super-resolution shear wave imaging"
   text=text
 %}
