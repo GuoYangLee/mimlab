@@ -23,7 +23,7 @@ Funding for various postdoctoral opportunities is available. If you are interest
 计划招收博士后若干名。将协助申请自然科学青年基金、博士后科学基金等科研项目。对条件优秀者，将协助申请北京大学博雅博士后等项目。候选人应已经获得（3年内）或近期将获得相关专业（力学、声学、光学和生物医学工程等）博士学位，具备较好的英文科技论文阅读和写作能力。候选人请将简历和代表性研究成果发送至[lgy@pku.edu.cn](mailto:lgy@pku.edu.cn)。
 
 ### Graduate students
-We have 1 to 2 PhD positions available each year. If you are interested in pursuing PhD in   
+We have 1~2 PhD and 1~2 master’s positions available each year. If you are interested in engaging in multidisciplinary research and solving real-world problems, please contact [lgy@pku.edu.cn](mailto:lgy@pku.edu.cn) to discuss potential opportunities.
 
 ### Undergraduate students
 If you are interested in working in the lab, please fill out the [Undergraduate Research Interest Form](https://forms.office.com/r/QD7qYbh2Et).  We encourage you to fill out this form (rather than to email us directly) to demonstrate that you have read through our website and understand the expectations for undergraduate researchers in our lab.  When positions become available, lab personnel will look through the form responses to identify candidates whose interests and goals align best with their research projects.  At that time, they will reach out to candidates directly to request additional materials (e.g. resume) and schedule interviews.  This communication typically occurs 1-2 months prior to the start of the semester, with hiring occuring at the beginning of the semester.
