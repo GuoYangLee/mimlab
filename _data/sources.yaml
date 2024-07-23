@@ -50,3 +50,15 @@
 - id: doi:10.1109/TMI.2022.3141613
   type: paper
   image: images/publications/TMI2022.png
+- id: doi:10.1016/j.jbiomech.2021.110444
+  type: paper
+  image: images/publications/BM2021.png
+- id: doi:10.1121/10.0002959
+  type: paper
+  image: images/publications/JASA2020.png
+- id: doi:10.1016/j.jmps.2020.103896
+  type: paper
+  image: images/publications/JMPS2020.png
+- id: doi:10.1016/j.eml.2020.100636
+  type: paper
+  image: images/publications/EML2020.png
