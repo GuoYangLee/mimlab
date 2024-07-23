@@ -18,13 +18,9 @@ We seek to build a multidisciplinary and diverse team of scientists and engineer
 Technician positions open up every 1-2 years.  If you are interested in learning about future opportunities or anticipated hiring timelines, please send an inquiry to [ming-fai.fong@bme.gatech.edu](mailto:ming-fai.fong@bme.gatech.edu).-->
 
 ### Postdoctoral scholars
-Funding for various postdoctoral opportunities is available. If you are interested in our research, you are encouraged to send an inquiry and CV to [lgy@pku.edu.cn](mailto:lgy@pku.edu.cn). The ideal candidate gets a PhD within three years and has a strong motivation to be involved in multidisciplinary research.
+Funding for various postdoctoral opportunities is available. If you are interested in our research, you are encouraged to send an inquiry and CV to [lgy@pku.edu.cn](mailto:lgy@pku.edu.cn). The ideal candidate should have obtained a PhD within the past three years and possess a strong motivation to engage in multidisciplinary research.
 
-计划招收博士后若干名。协助博士后期间自然科学青年基金、博士后科学基金等科研项目的申请及推荐。对条件优秀者，将协助申请北京大学博雅博士后等项目。候选人应已经获得（3年内）或近期将获得相关专业（力学、声学、光学和生物医学工程等）博士学位。
-
-2.  须全职从事博士后研究工作
-
-3.  具备较好的英文科技论文阅读和写作能力；
+计划招收博士后若干名。将协助申请自然科学青年基金、博士后科学基金等科研项目。对条件优秀者，将协助申请北京大学博雅博士后等项目。候选人应已经获得（3年内）或近期将获得相关专业（力学、声学、光学和生物医学工程等）博士学位，具备较好的英文科技论文阅读和写作能力。
 
 ### Graduate students
 We accept graduate students who have already been admitted to one of the following programs: 
