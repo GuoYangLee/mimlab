@@ -12,8 +12,16 @@
   link: https://doi.org/gs9q67
   orcid: 0000-0002-5939-9293
   member: Guoyang Li
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  description: In this work, we show biomechanical heterogeneity of the cornea via
+    high-resolution OCE
+  image: images/publications/TBME2024.png
+  tags:
+  - OCE
+  - Corneal biomechanics
+  - In vivo measurements
 - id: doi:10.1109/TMI.2023.3338178
   title: 'SWENet: A Physics-Informed Deep Neural Network (PINN) for Shear Wave Elastography'
   authors:
@@ -51,6 +59,27 @@
   member: Guoyang Li
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1038/s41467-023-40625-y
+  title: Ultra-wideband optical coherence elastography from acoustic to ultrasonic
+    frequencies
+  authors:
+  - Xu Feng
+  - Guo-Yang Li
+  - Seok-Hyun Yun
+  publisher: Nature Communications
+  date: '2023-08-16'
+  link: https://doi.org/gtmvbp
+  orcid: 0000-0002-5939-9293
+  member: Guoyang Li
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  description: This article demonstrates the first ultrasonic shear wave imaging technique
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-023-40625-y/MediaObjects/41467_2023_40625_Fig1_HTML.png?as=webp
+  tags:
+  - OCE
+  - Ultra-wideband OCV
+  - Ultrasonic shear waves
 - id: doi:10.1126/sciadv.add4082
   title: Noninvasive measurement of local stress inside soft materials with programmed
     shear waves
@@ -725,22 +754,3 @@
   member: Guoyang Li
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1038/s41467-023-40625-y
-  title: Ultra-wideband optical coherence elastography from acoustic to ultrasonic
-    frequencies
-  authors:
-  - Xu Feng
-  - Guo-Yang Li
-  - Seok-Hyun Yun
-  publisher: Nature Communications
-  date: '2023-08-16'
-  link: https://doi.org/gtmvbp
-  type: paper
-  description: This article demonstrates the first ultrasonic shear wave imaging technique
-  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-023-40625-y/MediaObjects/41467_2023_40625_Fig1_HTML.png?as=webp
-  tags:
-  - OCE
-  - Ultra-wideband OCV
-  - Ultrasonic shear waves
-  plugin: sources.py
-  file: sources.yaml
