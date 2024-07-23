@@ -18,7 +18,7 @@ We seek to build a multidisciplinary and diverse team of scientists and engineer
 Technician positions open up every 1-2 years.  If you are interested in learning about future opportunities or anticipated hiring timelines, please send an inquiry to [ming-fai.fong@bme.gatech.edu](mailto:ming-fai.fong@bme.gatech.edu).-->
 
 ### Postdoctoral scholars
-Funding for various postdoctoral opportunities is available on a rolling basis.  Current funding is available for projects related to visual plasticity and optogenetic feedback control.  If you are interested our research, you are encouraged to send an inquiry and CV to [ming-fai.fong@bme.gatech.edu](mailto:ming-fai.fong@bme.gatech.edu).
+Funding for various postdoctoral opportunities is available on a rolling basis. Current funding is available for projects related to visual plasticity and optogenetic feedback control.  If you are interested in our research, you are encouraged to send an inquiry and CV to [lgy@pku.edu.cn](mailto:lgy@pku.edu.cn).
 
 ### Graduate students
 We accept graduate students who have already been admitted to one of the following programs: 
