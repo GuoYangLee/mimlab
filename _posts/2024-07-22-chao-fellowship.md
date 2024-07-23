@@ -1,9 +1,9 @@
 ---
-title: Chao awarded Wells Fellowship
+title: Our lab website is online
 tags:
 author: 
 member: 
 image: images/headshots/jingqiu.jpg
 ---
 
-Hooray!  Yichao Zhao has received the J. Norman & Rosalyn Wells Fellowship.  The award will support his work on developing an optogenetic stimulation system for driving plasticity in the mature mouse brain.  Congratulations, Chao!
+Our lab website is online.
