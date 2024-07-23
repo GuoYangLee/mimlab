@@ -200,8 +200,10 @@
   link: https://doi.org/gt4xp6
   orcid: 0000-0002-5939-9293
   member: Guoyang Li
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  image: images/publications/BM2021.png
 - id: doi:10.1121/10.0002959
   title: 'An ultrasonic method to measure stress without calibration: The angled shear
     wave method'
@@ -214,8 +216,10 @@
   link: https://doi.org/gng3hd
   orcid: 0000-0002-5939-9293
   member: Guoyang Li
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  image: images/publications/JASA2020.png
 - id: doi:10.1016/j.jmps.2020.103896
   title: Backward Mach cone of shear waves induced by a moving force in soft anisotropic
     materials
@@ -227,8 +231,10 @@
   link: https://doi.org/gt4xp7
   orcid: 0000-0002-5939-9293
   member: Guoyang Li
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  image: images/publications/JMPS2020.png
 - id: doi:10.1016/j.eml.2020.100636
   title: "Size effect in shear wave elastography of small solid tumors \u2013 A phantom\
     \ study"
@@ -247,8 +253,10 @@
   link: https://doi.org/gt4xp8
   orcid: 0000-0002-5939-9293
   member: Guoyang Li
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  image: images/publications/EML2020.png
 - id: doi:10.1016/j.eml.2019.01.009
   title: 'Elastodiagnosis of diseases: A review'
   authors:
