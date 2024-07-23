@@ -19,6 +19,7 @@ Technician positions open up every 1-2 years.  If you are interested in learning
 
 ### Postdoctoral scholars
 Funding for various postdoctoral opportunities is available. If you are interested in our research, you are encouraged to send an inquiry and CV to [lgy@pku.edu.cn](mailto:lgy@pku.edu.cn).
+
 计划招收博士后若干名。协助博士后期间自然科学青年基金、博士后科学基金等科研项目的申请及推荐。对条件优秀者，将协助申请北京大学博雅博士后等项目。
 
 ### Graduate students
