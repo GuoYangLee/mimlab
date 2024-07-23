@@ -20,7 +20,7 @@ Technician positions open up every 1-2 years.  If you are interested in learning
 ### Postdoctoral scholars
 Funding for various postdoctoral opportunities is available. If you are interested in our research, you are encouraged to send an inquiry and CV to [lgy@pku.edu.cn](mailto:lgy@pku.edu.cn). The ideal candidate should have obtained a PhD within the past three years and possess a strong motivation to engage in multidisciplinary research.
 
-计划招收博士后若干名。将协助申请自然科学青年基金、博士后科学基金等科研项目。对条件优秀者，将协助申请北京大学博雅博士后等项目。候选人应已经获得（3年内）或近期将获得相关专业（力学、声学、光学和生物医学工程等）博士学位，具备较好的英文科技论文阅读和写作能力。
+计划招收博士后若干名。将协助申请自然科学青年基金、博士后科学基金等科研项目。对条件优秀者，将协助申请北京大学博雅博士后等项目。候选人应已经获得（3年内）或近期将获得相关专业（力学、声学、光学和生物医学工程等）博士学位，具备较好的英文科技论文阅读和写作能力。候选人请将简历和代表性研究成果发送至[lgy@pku.edu.cn](mailto:lgy@pku.edu.cn)。
 
 ### Graduate students
 We have 1 to 2 PhD positions available each year. If you are interested in pursuing PhD in   
