@@ -8,7 +8,7 @@
     - Ultrasonic shear waves
 - id: doi:10.1126/sciadv.add4082
   type: paper
-  description: This article proposes an acoustoelastic theory that lays the foundation for stress measurement without knowing constitutive parameters 
+  description: This article proposes an acoustoelastic theory that lays the foundation for stress measurement without requiring knowledge of constitutive parameters
   image: https://www.science.org/cms/10.1126/sciadv.add4082/asset/ac99b6d1-858f-4d7e-a3af-2262df04d59b/assets/images/large/sciadv.add4082-f2.jpg
   tags:
     - USWE
@@ -16,7 +16,7 @@
     - Stress measurement 
 - id: doi:10.1109/TMI.2023.3338178
   type: paper
-  description: This work establishes the full-waveform inversion for near-field shear waves with deep learning 
+  description: This work establishes full-waveform inversion for near-field shear waves using deep learning, enabling super-resolution shear wave imaging 
   image: images/publications/TMI2024.png
   tags:
     - USWE
@@ -32,7 +32,7 @@
     - near-field surface wave
 - id: doi:10.1109/TBME.2023.3338086
   type: paper
-  description: In this work, we show biomechanical heterogeneity of the cornea via high-resolution OCE
+  description: In this work, we demonstrate the biomechanical heterogeneity of the cornea via high-resolution OCE, enabling early detection and staging of corneal diseases
   image: images/publications/TBME2024.png
   tags:
     - OCE
