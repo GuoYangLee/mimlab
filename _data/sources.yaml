@@ -44,3 +44,6 @@
 - id: doi:10.1038/s42005-022-01000-3
   type: paper
   image: images/publications/CP2022.png
+- id: doi:10.1016/j.actbio.2022.04.030
+  type: paper
+  image: images/publications/AB2022.png
