@@ -33,7 +33,7 @@
  - id: doi:10.1109/TBME.2023.3338086
   type: paper
   description: In this work, we show biomechanical heterogeneity of the cornea via high-resolution OCE
-  image: images/publications/IEEETBME2024.png
+  image: images/publications/TBME2024.png
   tags:
     - OCE
     - Corneal biomechanics
