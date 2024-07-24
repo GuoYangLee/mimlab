@@ -7,7 +7,7 @@ aliases:
   - Y. Duan
   - Y Duan
 links:
-  email: dyw1193524411@buaa.edu.cn
+  email: dyw@stu.pku.edu.cn
   orcid: 0000-0002-6872-9733
   google-scholar: YVuC2Z4AAAAJ
 ---
