@@ -27,7 +27,9 @@ We have 1~2 PhD and 1~2 master’s positions available each year. If you are int
 
 每年招收1至2名博士生和1至2名硕士生，欢迎对多学科交叉研究、问题驱动研究感兴趣的同学邮件联系（[lgy@pku.edu.cn](mailto:lgy@pku.edu.cn)）。
 
-<!-- ### Undergraduate students
-If you are interested in working in the lab, please fill out the [Undergraduate Research Interest Form](https://forms.office.com/r/QD7qYbh2Et).  We encourage you to fill out this form (rather than to email us directly) to demonstrate that you have read through our website and understand the expectations for undergraduate researchers in our lab.  When positions become available, lab personnel will look through the form responses to identify candidates whose interests and goals align best with their research projects.  At that time, they will reach out to candidates directly to request additional materials (e.g. resume) and schedule interviews.  This communication typically occurs 1-2 months prior to the start of the semester, with hiring occuring at the beginning of the semester.-->
+### Undergraduate students
+We offer multiple projects oriented towards undergraduates. If you are interested in working with us or need support for your own research, please do not hesitate to contact us.
+
+实验室有若干面向本科生科研的课题，欢迎并积极支持学有余力的本科生开展研究工作。
 
 {% include section.html %}
