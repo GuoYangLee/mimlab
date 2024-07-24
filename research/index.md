@@ -25,8 +25,7 @@ Wave motions are the basis of mechanical signals and energy, laying the foundati
 %}
 
 {% capture text %}
-Visual deprivation is a classic paradigm for studying how transient disruptions to sensory experience can drive long-term plasticity in the brain.  We investigate how the quality of visual experience differentially impacts activity statistics in the visual thalamus and cortex, and design tools to probe causal relationships between altered activity statistics and long-term plasticity.
-
+Shear waves are the companion of ultrasound (longitudinal) waves in solids, with a polarisation approximately perpendicular to the propagation direction. Shear waves enable a novel imaging contrast that reflects material stiffnesses, which is of great value for multiple applications such as early diagnosis of cancer, cardiovascular diseases, eye diseases, etc. We are interested in developing novel imaging methods with shear waves across a broad frequency band (from Hz to GHz) and building super-resolution full-waveform inversion (SR-FWI) algorithms for image reconstruction.
 
 {:.center}
 {% endcapture %}
