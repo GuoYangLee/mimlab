@@ -25,7 +25,7 @@ Wave motions are the basis of mechanical signals and energy, laying the foundati
 %}
 
 {% capture text %}
-Shear waves are the companion of ultrasound (longitudinal) waves in solids, with polarization approximately perpendicular to the propagation direction. Shear waves provide novel imaging contrast that reflects material stiffness, which is highly valuable for applications such as the early diagnosis of cancers, cardiovascular diseases, and eye diseases. We are interested in developing novel imaging methods using shear waves across a broad frequency band (from Hz to GHz) and building super-resolution full-waveform inversion (SR-FWI) algorithms for image reconstruction.
+Shear waves are the companion of ultrasound (longitudinal) waves in solids, with polarization approximately perpendicular to the propagation direction. Shear waves provide novel imaging contrast that reflects material stiffness, which is highly valuable for applications such as the early diagnosis of cancers, cardiovascular diseases, and eye diseases. We are interested in developing novel imaging methods using shear waves across a broad frequency band (from Hz to GHz) and building super-resolution full-waveform inversion (SR-FWI) algorithms for image reconstruction. Additionally, we actively explore the application of shear wave imaging in biology and medicine.
 
 {:.center}
 {% endcapture %}
