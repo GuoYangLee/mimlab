@@ -8,8 +8,10 @@ aliases:
   - Y Duan
 links:
   email: dyw1193524411@buaa.edu.cn
+  orcid: 0000-0002-6872-9733
+  google-scholar: YVuC2Z4AAAAJ
 ---
 
-Yiwei Duan
+Duan Yiwei is a Ph.D. student in the Department of Mechanics and Engineering Science at Peking University. She earned her B.S. in Aircraft Power Engineering from Beihang University in 2021 and her M.S. in Mechanical Engineering from the same institution in 2024.
 
 Last updated: 2024
