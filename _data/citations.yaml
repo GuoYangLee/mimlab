@@ -20,6 +20,7 @@
     diseases
   image: images/publications/TBME2024.png
   tags:
+  - Shear wave imaging
   - OCE
   - Corneal biomechanics
   - In vivo measurements
@@ -43,9 +44,10 @@
     waves using deep learning, enabling super-resolution shear wave imaging
   image: images/publications/TMI2024.png
   tags:
-  - USWE
+  - Shear wave imaging
   - PINN
   - FWI
+  - Small tumor
 - id: doi:10.1016/j.actbio.2023.12.019
   title: Simultaneous tensile and shear measurement of the human cornea in vivo using
     S0- and A0-wave optical coherence elastography
@@ -80,9 +82,10 @@
   description: This article demonstrates the first ultrasonic shear wave imaging technique
   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-023-40625-y/MediaObjects/41467_2023_40625_Fig3_HTML.png?as=webp
   tags:
+  - Shear wave imaging
   - OCE
   - Ultra-wideband OCV
-  - Ultrasonic shear waves
+  - Ultrasonic shear wave
 - id: doi:10.1126/sciadv.add4082
   title: Noninvasive measurement of local stress inside soft materials with programmed
     shear waves
@@ -106,6 +109,7 @@
     for stress measurement without requiring knowledge of constitutive parameters
   image: https://www.science.org/cms/10.1126/sciadv.add4082/asset/ac99b6d1-858f-4d7e-a3af-2262df04d59b/assets/images/large/sciadv.add4082-f2.jpg
   tags:
+  - Shear wave imaging
   - USWE
   - Acoustoelasticity
   - Stress measurement
@@ -131,6 +135,7 @@
   - Wave mechanics
   - Supershear
   - near-field surface wave
+  - Anomalous acoustic effect
 - id: doi:10.1038/s42005-022-01000-3
   title: Non-destructive mapping of stress and strain in soft thin films through sound
     waves
@@ -184,7 +189,15 @@
   plugin: sources.py
   file: sources.yaml
   type: paper
-  image: images/publications/TMI2022.png
+  image: images/publications/TBME2024.png
+  description: In this work, we demonstrate the dynamic changes of arterial stiffness
+    within cardiac cycles and find a scaling law between shear wave speed and local
+    blood pressure
+  tags:
+  - Shear wave imaging
+  - OCE
+  - Corneal biomechanics
+  - In vivo measurements
 - id: doi:10.1016/j.jbiomech.2021.110444
   title: AFM-based indentation method for measuring the relaxation property of living
     cells
