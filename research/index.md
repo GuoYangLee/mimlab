@@ -12,7 +12,7 @@ nav:
 ## Current Projects
 
 {% capture text %}
-Wave motions are the basis of mechanical signals and energy, which lay the foundations of imaging and modulation. Waves in soft living matter are highly dispersive, nonlinear, and suffer from surface/interface effects. To better understand the wave motions in soft living matter, we investigate the mechanics and physics of waves and establish theories to precisely model the wave motion across scales, using a combination of finite element simulations and full-wave field experiments.
+Wave motions are the basis of mechanical signals and energy, which lay the foundations of imaging and modulation. Waves in soft living matter are highly dispersive, nonlinear, attenuative, and suffer from surface/interface effects. To better understand the wave motions in soft living matter, we investigate the mechanics and physics of waves and establish theories to precisely model the wave motion across scales, using a combination of finite element simulations and full-wave field experiments.
 
 {:.center}
 {% endcapture %}
