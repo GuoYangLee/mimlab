@@ -38,8 +38,7 @@ Shear waves are the companion of ultrasound (longitudinal) waves in solids, with
 %}
 
 {% capture text %}
-Visual deprivation is a classic paradigm for studying how transient disruptions to sensory experience can drive long-term plasticity in the brain.  We investigate how the quality of visual experience differentially impacts activity statistics in the visual thalamus and cortex, and design tools to probe causal relationships between altered activity statistics and long-term plasticity.
-
+Metamaterials are man-made materials with novel wave motion properties. These unique materials enable advanced wave control, allowing for the development of new imaging modalities and enhancing existing imaging methods. We investigate the enhancement of imaging through the inverse design of metamaterials to achieve improvements in resolution and imaging depth, thereby broadening the applications of traditional imaging methods.
 
 {:.center}
 {% endcapture %}
