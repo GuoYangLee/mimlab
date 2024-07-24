@@ -20,7 +20,7 @@ Wave motions are the basis of mechanical signals and energy, laying the foundati
 {%
   include feature.html
   image="images/research/wave-mechanics.png"
-  headline="Super-resolution shear wave imaging"
+  headline="Wave mechanics"
   text=text
 %}
 
@@ -33,7 +33,7 @@ Shear waves are the companion of ultrasound (longitudinal) waves in solids, with
 {%
   include feature.html
   image="images/research/shear-imaging.png"
-  headline="Super-resolution shear wave imaging"
+  headline="Shear wave imaging"
   text=text
 %}
 
@@ -47,7 +47,7 @@ Visual deprivation is a classic paradigm for studying how transient disruptions 
 {%
   include feature.html
   image="images/research/meta-imaging.png"
-  headline="Super-resolution shear wave imaging"
+  headline="Meta-imaging"
   text=text
 %}
 
@@ -61,7 +61,7 @@ Visual deprivation is a classic paradigm for studying how transient disruptions 
 {%
   include feature.html
   image="images/research/us-printing.png"
-  headline="Super-resolution shear wave imaging"
+  headline="US 3D printing"
   text=text
 %}
 
