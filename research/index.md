@@ -51,6 +51,7 @@ Metamaterials are man-made materials with novel wave motion properties. These un
 %}
 
 {% capture text %}
+Intelligent manufacturing finds broad applications in 
 Visual deprivation is a classic paradigm for studying how transient disruptions to sensory experience can drive long-term plasticity in the brain.  We investigate how the quality of visual experience differentially impacts activity statistics in the visual thalamus and cortex, and design tools to probe causal relationships between altered activity statistics and long-term plasticity.
 
 
