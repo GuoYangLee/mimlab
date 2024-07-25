@@ -2,15 +2,15 @@
 name: Muyang Li (李沐阳)
 image: images/headshots/muyangli.jpg
 description:
-role: current-phd
+role: current-undergrad
 aliases:
-  - J. Qiu
-  - J Qiu
+  - M. Li
+  - M Li
 links:
-  email: qiujing@stu.pku.edu.cn
+  email: 2200011067@stu.pku.edu.cn
 ---
 
-Jing Qiu
+Muyang Li
 
 Last updated: 2024
 
