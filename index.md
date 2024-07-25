@@ -5,6 +5,6 @@ The Biomechanical Imaging and Modulation (MiM) Lab, led by Dr. Guoyang Li, focus
 
 {%
   include figure.html
-  image="images/cornea-oct.png"
+  image="images/cornea-oce.png"
   width="90%"
 %}
