@@ -74,3 +74,40 @@
 - id: doi:10.1016/j.eml.2020.100636
   type: paper
   image: images/publications/EML2020.png
+- id: doi:10.1098/rsta.2018.0075
+  type: paper
+  image: images/publications/PTRSA2019.png
+- id: doi:10.1016/j.ijnonlinmec.2018.12.005
+  type: paper
+  image: images/publications/IJLM2019.png
+- id: doi:10.1016/j.eml.2019.01.009
+  type: paper
+  image: images/publications/EML2019.png
+- id: doi:10.1016/j.actbio.2018.12.002
+  type: paper
+  image: images/publications/AB2019.png
+- id: doi:10.1016/j.jmbbm.2018.04.017
+  type: paper
+  image: images/publications/JMBBM2018.png
+- id: doi:10.1016/j.jbiomech.2018.05.018
+  type: paper
+  image: images/publications/JB2018.png
+- id: doi:10.1016/j.jmps.2017.11.024
+  type: paper
+  image: images/publications/JMPS2018.png
+- id: doi:10.1016/j.jmps.2017.02.008
+  type: paper
+  image: images/publications/JMPS2017.png
+- id: doi:10.1098/rspa.2016.0841
+  type: paper
+  image: images/publications/PRSA2017.png
+- id: doi:10.1016/j.jmps.2016.05.023  
+  type: paper
+  image: images/publications/JMPS2016a.png
+- id: doi:10.1016/j.jmps.2016.04.028 
+  type: paper
+  image: images/publications/JMPS2016b.png
+- id: doi:10.1016/j.media.2014.10.010
+  type: paper
+  image: images/publications/MIA2015.png
+  
