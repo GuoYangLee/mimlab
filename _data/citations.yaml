@@ -282,8 +282,10 @@
   link: https://doi.org/gt4xp9
   orcid: 0000-0002-5939-9293
   member: Guoyang Li
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  image: images/publications/EML2019.png
 - id: doi:10.1016/j.actbio.2018.12.002
   title: Guided wave elastography of layered soft tissues
   authors:
@@ -297,8 +299,10 @@
   link: https://doi.org/gnxsgg
   orcid: 0000-0002-5939-9293
   member: Guoyang Li
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  image: images/publications/AB2019.png
 - id: doi:10.1016/j.ijnonlinmec.2018.12.005
   title: 'Indentation creep tests to assess the viscoelastic properties of soft materials:
     Theory, method and experiment'
@@ -313,8 +317,10 @@
   link: https://doi.org/gt4xqb
   orcid: 0000-0002-5939-9293
   member: Guoyang Li
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  image: images/publications/IJLM2019.png
 - id: doi:10.1098/rsta.2018.0075
   title: Mechanical characterization of functionally graded soft materials with ultrasound
     elastography
@@ -332,8 +338,10 @@
   link: https://doi.org/gt4xqc
   orcid: 0000-0002-5939-9293
   member: Guoyang Li
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  image: images/publications/PTRSA2019.png
 - id: doi:10.1016/j.jbiomech.2018.05.018
   title: Effect of ligation on the viscoelastic properties of liver tissues
   authors:
@@ -349,8 +357,10 @@
   link: https://doi.org/gdzgns
   orcid: 0000-0002-5939-9293
   member: Guoyang Li
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  image: images/publications/JB2018.png
 - id: doi:10.1016/j.jmbbm.2018.04.017
   title: In vivo and ex vivo elastic properties of brain tissues measured with ultrasound
     elastography
@@ -367,8 +377,10 @@
   link: https://doi.org/ggrsrf
   orcid: 0000-0002-5939-9293
   member: Guoyang Li
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  image: images/publications/JMBBM2018.png
 - id: doi:10.1016/j.jmps.2017.11.024
   title: Non-leaky modes and bandgaps of surface acoustic waves in wrinkled stiff-film/compliant-substrate
     bilayers
@@ -382,8 +394,10 @@
   link: https://doi.org/gc7h82
   orcid: 0000-0002-5939-9293
   member: Guoyang Li
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  image: images/publications/JMPS2018.png
 - id: doi:10.1016/j.ultrasmedbio.2016.10.006
   title: An Inverse Method to Determine Arterial Stiffness with Guided Axial Waves
   authors:
@@ -528,8 +542,10 @@
   link: https://doi.org/f984x6
   orcid: 0000-0002-5939-9293
   member: Guoyang Li
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  image: images/publications/JMPS2017.png
 - id: doi:10.1098/rspa.2016.0841
   title: Mechanics of ultrasound elastography
   authors:
@@ -541,8 +557,10 @@
   link: https://doi.org/gf2bh8
   orcid: 0000-0002-5939-9293
   member: Guoyang Li
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  image: images/publications/PRSA2017.png
 - id: doi:10.1016/j.ultrasmedbio.2017.03.001
   title: Novel Method for Vessel Cross-Sectional Shear Wave Imaging
   authors:
@@ -618,8 +636,10 @@
   link: https://doi.org/f9frcs
   orcid: 0000-0002-5939-9293
   member: Guoyang Li
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  image: images/publications/JMPS2016a.png
 - id: doi:10.1016/j.jmps.2016.04.028
   title: 'Elastic Cherenkov effects in transversely isotropic soft materials-II: Ex
     vivo and in vivo experiments'
@@ -637,8 +657,10 @@
   link: https://doi.org/f82sf9
   orcid: 0000-0002-5939-9293
   member: Guoyang Li
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  image: images/publications/JMPS2016b.png
 - id: doi:10.1016/j.jmbbm.2016.09.026
   title: Temperature-dependent elastic properties of brain tissues measured with the
     shear wave elastography method
@@ -685,8 +707,10 @@
   link: https://doi.org/f62x9t
   orcid: 0000-0002-5939-9293
   member: Guoyang Li
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  image: images/publications/MIA2015.png
 - id: doi:10.1118/1.4922133
   title: Determining the <i>in vivo</i> elastic properties of dermis layer of human
     skin using the supersonic shear imaging technique and inverse analysis
