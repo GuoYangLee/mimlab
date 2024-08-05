@@ -7,7 +7,7 @@ aliases:
   - Y. Zhao
   - Y Zhao
 links:
-  email: zyk0204@mail.dlut.edu.cn
+  email: zhaoyongkang@stu.pku.edu.cn
 ---
 
 Yongkang Zhao
