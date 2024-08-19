@@ -194,15 +194,15 @@
   plugin: sources.py
   file: sources.yaml
   type: paper
-  image: images/publications/TBME2024.png
+  image: images/publications/TMI2022.png
   description: In this work, we demonstrate the dynamic changes of arterial stiffness
     within cardiac cycles and find a scaling law between shear wave speed and local
     blood pressure
   tags:
   - Shear wave imaging
-  - OCE
-  - Corneal biomechanics
-  - In vivo measurements
+  - USWE
+  - Arterial biomechanics
+  - Pulse wave
 - id: doi:10.1016/j.jbiomech.2021.110444
   title: AFM-based indentation method for measuring the relaxation property of living
     cells
