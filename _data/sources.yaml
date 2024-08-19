@@ -61,12 +61,12 @@
   type: paper
   image: images/publications/TMI2022.png
   description: In this work, we demonstrate the dynamic changes of arterial stiffness within cardiac cycles and find a scaling law between shear wave speed and local blood pressure
-  image: images/publications/TBME2024.png
+  image: images/publications/TMI2022.png
   tags:
     - Shear wave imaging
-    - OCE
-    - Corneal biomechanics
-    - In vivo measurements  
+    - USWE
+    - Arterial biomechanics
+    - Pulse wave  
 - id: doi:10.1016/j.jbiomech.2021.110444
   type: paper
   image: images/publications/BM2021.png
