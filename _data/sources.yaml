@@ -12,10 +12,10 @@
   description: This article proposes an acoustoelastic theory that lays the foundation for stress measurement without requiring knowledge of constitutive parameters
   image: https://www.science.org/cms/10.1126/sciadv.add4082/asset/ac99b6d1-858f-4d7e-a3af-2262df04d59b/assets/images/large/sciadv.add4082-f2.jpg
   tags:
-    - Shear wave imaging
-    - USWE
+    - Wave mechanics
     - Acoustoelasticity
-    - Stress measurement 
+    - Stress measurement
+    - Acoustic radiation force    
 - id: doi:10.1109/TMI.2023.3338178
   type: paper
   description: This work establishes full-waveform inversion for near-field shear waves using deep learning, enabling super-resolution shear wave imaging 
@@ -46,6 +46,11 @@
 - id: doi:10.1016/j.actbio.2023.12.019
   type: paper
   image: images/publications/AB2024.png
+  tags:
+    - Shear wave imaging
+    - Corneal biomechanics
+    - Anisotropic acoustoelasticity
+    - Lamb waves
 - id: doi:10.1038/s42005-022-01000-3
   type: paper
   image: images/publications/CP2022.png
