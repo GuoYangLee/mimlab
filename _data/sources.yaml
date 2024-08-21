@@ -59,7 +59,6 @@
   image: images/publications/AB2022.png
 - id: doi:10.1109/TMI.2022.3141613
   type: paper
-  image: images/publications/TMI2022.png
   description: In this work, we demonstrate the dynamic changes of arterial stiffness within cardiac cycles and find a scaling law between shear wave speed and local blood pressure
   image: images/publications/TMI2022.png
   tags:
@@ -75,7 +74,12 @@
   image: images/publications/JASA2020.png
 - id: doi:10.1016/j.jmps.2020.103896
   type: paper
+  description: This work demonstrates the mechanism of backward shear wave Mach cone in anisotropic solids
   image: images/publications/JMPS2020.png
+  tags:
+    - Wave mechanics
+    - Backward Mach cone 
+    - Anisotropic elasticity
 - id: doi:10.1016/j.eml.2020.100636
   type: paper
   image: images/publications/EML2020.png
@@ -99,20 +103,51 @@
   image: images/publications/JB2018.png
 - id: doi:10.1016/j.jmps.2017.11.024
   type: paper
+  description: This work demonstrates the effects of surface wrinkling on surface wave propagation for the first time
   image: images/publications/JMPS2018.png
+  tags:
+    - Wave mechanics
+    - Nonleaky surface wave  
+    - Surface wrinkling
+    - Bandgap
 - id: doi:10.1016/j.jmps.2017.02.008
   type: paper
+  description: This work establishes the first acoustoelastic model for shear wave imaging of thin-walled tissues
   image: images/publications/JMPS2017.png
+  tags:
+    - Wave mechanics
+    - Guided wave  
+    - USWE
+    - Arterial biomechanics
 - id: doi:10.1098/rspa.2016.0841
   type: paper
+  description: This is a comprehensive review on the mechanics of ultrasound elastography
   image: images/publications/PRSA2017.png
+  tags:
+    - Shear wave imaging
+    - review  
+    - USWE
+    - Continuum mechanics
 - id: doi:10.1016/j.jmps.2016.05.023  
   type: paper
   image: images/publications/JMPS2016a.png
+  tags:
+    - Wave mechanics
+    - Elastic Cherenkov effect
+    - Shear wave Mach cone   
 - id: doi:10.1016/j.jmps.2016.04.028 
   type: paper
   image: images/publications/JMPS2016b.png
+  tags:
+    - Wave mechanics
+    - Elastic Cherenkov effect
+    - Anisotropic elasticity   
 - id: doi:10.1016/j.media.2014.10.010
   type: paper
   image: images/publications/MIA2015.png
+  tags:
+    - Shear wave imaging
+    - Acoustoelasticity
+    - Nonlinear elasticity
+    - Inverse problem   
   
