@@ -1,5 +1,20 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1016/j.jbiomech.2024.112279
+  title: Guided wave elastography of human skins with a layered model incorporating
+    the effect of muscle state
+  authors:
+  - Shiyu Ma
+  - Zhaoyi Zhang
+  - Guo-Yang Li
+  - Yanping Cao
+  publisher: Journal of Biomechanics
+  date: '2024-09-01'
+  link: https://doi.org/gt7gnq
+  orcid: 0000-0002-5939-9293
+  member: Guoyang Li
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1109/TBME.2023.3338086
   title: In Vivo Optical Coherence Elastography Unveils Spatial Variation of Human
     Corneal Stiffness
@@ -69,6 +84,21 @@
   - Corneal biomechanics
   - Anisotropic acoustoelasticity
   - Lamb waves
+- id: doi:10.34133/bmr.0044
+  title: 'High-Frequency Optical Coherence Elastography for Gingival Tissue Characterization:
+    Variability in Stiffness and Response to Physiological Conditions'
+  authors:
+  - Wonjoon Moon
+  - Xu Feng
+  - Guo-Yang Li
+  - Seok-Hyun Yun
+  publisher: Biomaterials Research
+  date: '2024-01-01'
+  link: https://doi.org/gt7gnr
+  orcid: 0000-0002-5939-9293
+  member: Guoyang Li
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1038/s41467-023-40625-y
   title: Ultra-wideband optical coherence elastography from acoustic to ultrasonic
     frequencies
@@ -194,10 +224,10 @@
   plugin: sources.py
   file: sources.yaml
   type: paper
-  image: images/publications/TMI2022.png
   description: In this work, we demonstrate the dynamic changes of arterial stiffness
     within cardiac cycles and find a scaling law between shear wave speed and local
     blood pressure
+  image: images/publications/TMI2022.png
   tags:
   - Shear wave imaging
   - USWE
@@ -252,7 +282,13 @@
   plugin: sources.py
   file: sources.yaml
   type: paper
+  description: This work demonstrates the mechanism of backward shear wave Mach cone
+    in anisotropic solids
   image: images/publications/JMPS2020.png
+  tags:
+  - Wave mechanics
+  - Backward Mach cone
+  - Anisotropic elasticity
 - id: doi:10.1016/j.eml.2020.100636
   title: "Size effect in shear wave elastography of small solid tumors \u2013 A phantom\
     \ study"
@@ -402,7 +438,14 @@
   plugin: sources.py
   file: sources.yaml
   type: paper
+  description: This work demonstrates the effects of surface wrinkling on surface
+    wave propagation for the first time
   image: images/publications/JMPS2018.png
+  tags:
+  - Wave mechanics
+  - Nonleaky surface wave
+  - Surface wrinkling
+  - Bandgap
 - id: doi:10.1016/j.ultrasmedbio.2016.10.006
   title: An Inverse Method to Determine Arterial Stiffness with Guided Axial Waves
   authors:
@@ -550,7 +593,14 @@
   plugin: sources.py
   file: sources.yaml
   type: paper
+  description: This work establishes the first acoustoelastic model for shear wave
+    imaging of thin-walled tissues
   image: images/publications/JMPS2017.png
+  tags:
+  - Wave mechanics
+  - Guided wave
+  - USWE
+  - Arterial biomechanics
 - id: doi:10.1098/rspa.2016.0841
   title: Mechanics of ultrasound elastography
   authors:
@@ -565,7 +615,13 @@
   plugin: sources.py
   file: sources.yaml
   type: paper
+  description: This is a comprehensive review on the mechanics of ultrasound elastography
   image: images/publications/PRSA2017.png
+  tags:
+  - Shear wave imaging
+  - review
+  - USWE
+  - Continuum mechanics
 - id: doi:10.1016/j.ultrasmedbio.2017.03.001
   title: Novel Method for Vessel Cross-Sectional Shear Wave Imaging
   authors:
@@ -645,6 +701,10 @@
   file: sources.yaml
   type: paper
   image: images/publications/JMPS2016a.png
+  tags:
+  - Wave mechanics
+  - Elastic Cherenkov effect
+  - Shear wave Mach cone
 - id: doi:10.1016/j.jmps.2016.04.028
   title: 'Elastic Cherenkov effects in transversely isotropic soft materials-II: Ex
     vivo and in vivo experiments'
@@ -666,6 +726,10 @@
   file: sources.yaml
   type: paper
   image: images/publications/JMPS2016b.png
+  tags:
+  - Wave mechanics
+  - Elastic Cherenkov effect
+  - Anisotropic elasticity
 - id: doi:10.1016/j.jmbbm.2016.09.026
   title: Temperature-dependent elastic properties of brain tissues measured with the
     shear wave elastography method
@@ -716,6 +780,11 @@
   file: sources.yaml
   type: paper
   image: images/publications/MIA2015.png
+  tags:
+  - Shear wave imaging
+  - Acoustoelasticity
+  - Nonlinear elasticity
+  - Inverse problem
 - id: doi:10.1118/1.4922133
   title: Determining the <i>in vivo</i> elastic properties of dermis layer of human
     skin using the supersonic shear imaging technique and inverse analysis
