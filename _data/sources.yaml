@@ -150,4 +150,10 @@
     - Acoustoelasticity
     - Nonlinear elasticity
     - Inverse problem   
-  
+- id: doi:10.1016/j.jbiomech.2024.112279
+  type: paper
+  image: images/publications/JB2024.png
+- id: doi:10.34133/bmr.0044
+  type: paper
+  image: images/publications/BR2024.png
+
