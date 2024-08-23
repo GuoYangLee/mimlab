@@ -13,8 +13,10 @@
   link: https://doi.org/gt7gnq
   orcid: 0000-0002-5939-9293
   member: Guoyang Li
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  image: images/publications/JB2024.png
 - id: doi:10.1109/TBME.2023.3338086
   title: In Vivo Optical Coherence Elastography Unveils Spatial Variation of Human
     Corneal Stiffness
@@ -97,8 +99,10 @@
   link: https://doi.org/gt7gnr
   orcid: 0000-0002-5939-9293
   member: Guoyang Li
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  image: images/publications/BR2024.png
 - id: doi:10.1038/s41467-023-40625-y
   title: Ultra-wideband optical coherence elastography from acoustic to ultrasonic
     frequencies
