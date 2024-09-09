@@ -25,7 +25,7 @@ nav:
 %}
 
 {% capture text %}
-[Meta-Imaging] Metamaterials are man-made materials with novel wave motion properties, allowing for the development of new imaging modalities and enhancing existing imaging methods. We focus on the enhancement of imaging through the inverse design of metamaterials to improve resolution and imaging depth, broadening the applications of traditional imaging techniques. We pay particular attention to shear wave imaging, which complements ultrasound (longitudinal) imaging and provides novel imaging contrast that reflects material stiffness. We are developing novel imaging methods using shear waves across a broad frequency band (from Hz to GHz) and building super-resolution full-waveform inversion (SR-FWI) algorithms for image reconstruction.
+[Meta-Imaging] Metamaterials are man-made materials with unique wave motion properties, enabling the development of new imaging modalities and the enhancement of existing imaging methods. Our research focuses on improving imaging through the inverse design of metamaterials to achieve better resolution and imaging depth, thereby expanding the applications of traditional imaging techniques. We place particular emphasis on shear wave imaging, which complements ultrasound (longitudinal) imaging and provides novel imaging contrast that reflects material stiffness. We are developing innovative imaging methods using shear waves across a broad frequency band (from Hz to GHz) and constructing super-resolution full-waveform inversion (SR-FWI) algorithms for image reconstruction.
 {:.center}
 {% endcapture %}
 
