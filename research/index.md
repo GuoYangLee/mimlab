@@ -25,19 +25,6 @@ nav:
 %}
 
 {% capture text %}
-[Shear Wave Imaging] Shear waves are the companion of ultrasound (longitudinal) waves in solids, with polarization approximately perpendicular to the propagation direction. Shear waves provide novel imaging contrast that reflects material stiffness, which is highly valuable for applications such as the early diagnosis of cancers, cardiovascular diseases, and eye diseases. We are interested in developing novel imaging methods using shear waves across a broad frequency band (from Hz to GHz) and building super-resolution full-waveform inversion (SR-FWI) algorithms for image reconstruction. Additionally, we actively explore the application of shear wave imaging in biology and medicine.
-
-{:.center}
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/research/shear-imaging.png"
-  headline="Shear wave imaging"
-  text=text
-%}
-
-{% capture text %}
 [Meta-Imaging] Metamaterials are man-made materials with novel wave motion properties. These unique materials enable advanced wave control, allowing for the development of new imaging modalities and enhancing existing imaging methods. We focus on the enhancement of imaging through the inverse design of metamaterials to improve resolution and imaging depth, broadening the applications of traditional imaging techniques. We pay particular attention to shear wave imaging, which complements ultrasound (longitudinal) imaging and provides novel imaging contrast that reflects material stiffness. We are developing novel imaging methods using shear waves across a broad frequency band (from Hz to GHz) and building super-resolution full-waveform inversion (SR-FWI) algorithms for image reconstruction. Additionally, we actively explore the application of shear wave imaging in biology and medicine.
 
 {:.center}
@@ -45,7 +32,7 @@ nav:
 
 {%
   include feature.html
-  image="images/research/meta-imaging.png"
+  image="images/research/shear-imaging.png"
   headline="Meta-imaging"
   text=text
 %}
