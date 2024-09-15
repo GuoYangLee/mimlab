@@ -50,3 +50,15 @@ nav:
   text=text
 %}
 
+{% capture text %}
+[Biomechanical Imaging and Modulation of the Brain] The brain is the most complex and unknown organs in the human body. 
+
+{:.center}
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/research/us-printing.png"
+  headline="US 3D printing"
+  text=text
+%}
