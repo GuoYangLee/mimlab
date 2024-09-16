@@ -2,7 +2,7 @@
 name: Xinyue Luo (罗心悦)
 image: images/headshots/xinyue.jpg
 description:
-role: current-undergrad
+role: alum
 aliases:
   - X. Luo
   - X Li
