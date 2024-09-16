@@ -10,7 +10,7 @@ links:
   email: luoxinyue@my.swjtu.edu.cn
 ---
 
-Muyang Li
+Introduction of Xinyue Luo
 
 Last updated: 2024.8
 
