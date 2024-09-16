@@ -7,9 +7,9 @@ aliases:
   - J. Wang
   - J Wang
 links:
-  email: luoxinyue@my.swjtu.edu.cn
+  email: 2110117107@stu.pku.edu.cn
 ---
 
-Muyang Li
+Introduction of Jiajun Wang
 
-Last updated: 2024.8
+Last updated: 2024.9
