@@ -31,4 +31,4 @@ Dr. Li primarily focuses on the research of wave mechanics and imaging, as well 
 
 {% include grid.html content=content %}
 
-Last updated: 2024.7
+Last updated: 2025.1
