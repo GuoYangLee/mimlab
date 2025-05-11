@@ -7,7 +7,7 @@ aliases:
   - G. Chen
   - G Chen
 links:
-  email:2300011038@stu.pku.edu.cn
+  email: 2300011038@stu.pku.edu.cn
 ---
 Guilin Chen
 
