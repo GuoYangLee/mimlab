@@ -2,7 +2,7 @@
 name: Guilin Chen (陈贵麟)
 image: images/headshots/guilinchen.jpg
 description:
-role: current-phd
+role: current-undergrad
 aliases:
   - G. Chen
   - G Chen
