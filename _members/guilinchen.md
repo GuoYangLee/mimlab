@@ -6,7 +6,8 @@ role: current-phd
 aliases:
   - G. Chen
   - G Chen
-links:2300011038@stu.pku.edu.cn
+links:
+email:2300011038@stu.pku.edu.cn
 ---
 Guilin Chen
 
