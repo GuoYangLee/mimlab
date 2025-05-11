@@ -1,5 +1,21 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1016/j.actbio.2025.05.009
+  title: Optical Coherence Elastography Measures Mechanical Tension in the Lens and
+    Capsule
+  authors:
+  - Xu Feng
+  - Guo-Yang Li
+  - Yuxuan Jiang
+  - Owen Shortt-Nguyen
+  - Seok-Hyun Yun
+  publisher: Acta Biomaterialia
+  date: '2025-05-01'
+  link: https://doi.org/g9h392
+  orcid: 0000-0002-5939-9293
+  member: Guoyang Li
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1007/s11433-024-2517-x
   title: Stress anisotropy regulated wrinkling pattern evolution on a core-shell soft
     cylinder
